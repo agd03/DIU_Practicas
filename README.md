@@ -3,7 +3,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Gastronomía/ocio de degustació
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIU2.AP.  Curso: 2024/25 
+Grupo: DIU2.AGD.  Curso: 2024/25 
 
 Actualizado: 07/03/2025
 
