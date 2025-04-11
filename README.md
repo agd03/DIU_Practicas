@@ -87,7 +87,7 @@ En general, Granada Cooking tiene potencial, pero necesita optimizar su usabilid
 
 ![Usuario #2](P1/Persona2.png)
 
-**Juan Ramírez López** es un jubilado de 67 años, apasionado por la historia, la cocina tradicional y la horticultura. Busca pasar más tiempo con su familia compartiendo con ellos sus recetas caseras o realizando algún taller de comida tradicional.
+**Sophie Dupont** es una mujer francesa de 65 años, bibliotecaria jubilada, que ha venido a pasar unos meses en Granada para estar cerca de su hija. Le apasiona la cocina casera y saludable, y busca actividades culturales que le permitan conocer la gastronomía local y hacer nuevas amistades. Aunque no habla español y su nivel de inglés es básico, está abierta a nuevas experiencias. Valora sentirse bienvenida y poder participar sin que el idioma sea una barrera, disfrutando de su estancia mientras aprende sobre la cultura y comparte momentos con otras personas.
 
 
 ### 1.d User Journey Map
