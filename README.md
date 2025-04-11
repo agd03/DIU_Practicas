@@ -120,27 +120,32 @@ En general, Granada Cooking ofrece una propuesta interesante, pero necesita mejo
 
 [Ver User Jouney Map #2 (Juan)](P1/Persona&UserJourneyMap2.pdf)
 
-**Juan** busca un taller de cocina en Granada y encuentra la web Granada Cooking, que le parece interesante. Busca **talleres de cocina familiares** pero se da cuenta que estan desactualizados. Ante la falta de información decide ponerse en contancto con el **soporte técnico**. Le dicen que esos talleres ya no están disponibles y acaba **decepcionado**. Finamelmente, abandona la web y busca en otra.
+**Sophie** está pasando unos meses en Granada y busca un taller de cocina para conocer gente. Encuentra la web de Granada Cooking, que le parece interesante al principio y le parece que el local está **bien situado**, pero pronto se enfrenta a **barreras idiomáticas**: la web solo está en español y no ofrece una opción clara para cambiar de idioma. Aunque usa el traductor del navegador, la experiencia no es fluida. Al acceder al listado de talleres, no encuentra imágenes ni explicaciones claras, lo que le genera **inseguridad**. Finalmente, abandona la página y descarta apuntarse.
 
-Este caso muestra cómo una web con un buen diseño inicial pierde usuarios por problemas de usabilidad y contenido desactualizado. La falta de ifnformación sobre el contenido de los talleres, genera confunsión y hacen al usuario pedir ayuda, perdiendo así potenciales clientes. Es común ver esto en webs que priorizan el posicionamiento de su web frente a dar una información clara y concisa.
+Este caso evidencia cómo una web que parece atractiva en un primer vistazo puede frustrar al usuario si no está adaptada a sus necesidades básicas. Sophie representa un perfil habitual en este tipo de actividades: personas mayores, extranjeras, con ganas de integrarse pero con limitaciones idiomáticas. Su experiencia muestra que una barrera tan simple como el idioma puede hacer que el usuario descarte una opción con gran potencial.
 
 Los principales **problemas** detectados son:
 
-- Información desactualizada.
-  
-- Falta de contenido en los talleres.
+- Falta de opción multilingüe integrada en la web.
+
+- Listado de talleres sin imágenes ni explicaciones claras.
+
+- Traducción automática poco fiable y fragmentada.
+
+- Dificultad para navegar por la web sin conocimientos de español.
  
-- Al contactar con el soporte técnico y recibir la información, no se han planteado alternativas ni otros talleres que podrían interesar al usuario.
   
 Por lo que proponemos las siguientes **mejoras**:
 
-- Actualizar la información
+- Incluir versión de la web en varios idiomas, al menos inglés como idioma secundario.
+
+- Añadir imágenes atractivas y explicaciones sencillas en el listado de talleres.
+
+- Rediseñar la navegación para que sea más intuitiva y visual.
+
+- Mostrar de forma explícita si el taller es apto para personas extranjeras o si cuenta con apoyo lingüístico.
   
-- Añadir más contenido a los talleres.
-  
-- Que el soporte técnico ofrezca otras alternativas para evitar una pérdida de cliente.
-  
-En general, Granada Cooking ofrece una variedad de talleres pero la falta de información y deficiente usabilidad hacen que pierdan clientes como Juan.
+En resumen, Granada Cooking tiene potencial para atraer a usuarios internacionales y está bien situado, pero necesita adaptar su web para ofrecer una experiencia más inclusiva, especialmente para personas mayores o con barreras idiomáticas.
 
 
 ### 1.e Usability Review
