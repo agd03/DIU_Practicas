@@ -118,7 +118,7 @@ Por lo que proponemos las siguientes **mejoras**:
 
 En general, Granada Cooking ofrece una propuesta interesante, pero necesita mejorar su usabilidad y gestión de contenido para evitar la pérdida de clientes potenciales.
 
-[Ver User Jouney Map #2 (Juan)](P1/Persona&UserJourneyMap2.pdf)
+[Ver User Jouney Map #2 (Sophie)](P1/Persona&UserJourneyMap2.pdf)
 
 **Sophie** está pasando unos meses en Granada y busca un taller de cocina para conocer gente. Encuentra la web de Granada Cooking, que le parece interesante al principio y le parece que el local está **bien situado**, pero pronto se enfrenta a **barreras idiomáticas**: la web solo está en español y no ofrece una opción clara para cambiar de idioma. Aunque usa el traductor del navegador, la experiencia no es fluida. Al acceder al listado de talleres, no encuentra imágenes ni explicaciones claras, lo que le genera **inseguridad**. Finalmente, abandona la página y descarta apuntarse.
 
@@ -176,8 +176,10 @@ Granada Cooking ofrece una web atractiva y bien estructurada, con buena presenci
 
 - Algunas secciones tienen tiempos de carga lentos, lo que puede desmotivar a los usuarios.
 
+- No existe opción de cambio de idioma, haciendo la web inaccesible para no hispanoparlantes.
+
 **Conclusión:**
-Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema de reservas, actualizar su contenido con más frecuencia y optimizar la navegación. Resolver estos problemas evitaría la frustración de los usuarios y ayudaría a aumentar las reservas y la fidelización de clientes.
+Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema de reservas, actualizar su contenido con más frecuencia, optimizar la navegación y añadir versiones en otros idiomas. Resolver estos problemas evitaría la frustración de los usuarios y ayudaría a aumentar las reservas y la fidelización de clientes.
 
 <br>
 
