@@ -9,11 +9,11 @@ Actualizado: 07/03/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Aliño
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Aliño nace para ofrecer experiencias culinarias basadas en una cocina consciente, saludable y accesible. A través de talleres con ingredientes de cercanía y un entorno inclusivo, buscamos conectar a personas con la cultura local desde el sabor, fomentando una relación más ética con los alimentos y el entorno.
 
 Logotipo: 
 
