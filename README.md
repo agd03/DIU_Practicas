@@ -185,11 +185,10 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a Reframing / IDEACION: Empathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
+![EmpathyMap](P2/EmpathyMap.pdf)
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
