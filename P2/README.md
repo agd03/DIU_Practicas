@@ -1,23 +1,26 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* [Mapa de empatía](./EmpathyMap.pdf)
+* [Mapa de empatía](EmpathyMap.pdf)
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+* [ScopeCanvas](ScopeCanvas_Alinyo.pdf)
 
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
+* [User Task Matrix](UserTaskMatrix.pdf)
+* Task flows:
+  * [Reservar un taller](TaskFlow1.png)
+  * [Comprar productos](TaskFlow2.png)
+  * [Proponer producto](TaskFlow.png)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
+* [Sitemap](Sitemap.pdf)
+* [Labelling](Labelling.pdf)
 
 
 ### Prototipo Lo-FI Wireframe 
