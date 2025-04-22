@@ -219,18 +219,27 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
-![Sitemap](P2/sitemap_.png)
+**Reservar un taller**
+![Taskflow1](P2/TaskFlow1.png)
+
+**Comprar un producto**
+![Taskflow2](P2/TaskFlow2.png)
+
+**Proponer un producto**
+![Taskflow3](P2/TaskFlow3.png)
 
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+>>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
 
 Término | Significado     
 | ------------- | -------
   Login  | acceder a plataforma
+
+![Sitemap](P2/sitemap_.png)
 
 
 ### 2.d Wireframes
