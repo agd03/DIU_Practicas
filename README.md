@@ -221,7 +221,7 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 
 ![Sitemap](P2/sitemap_.png)
 
-![Sitemap](P2/Sitemap-1png)
+![Sitemap](P2/Sitemap-1.png)
 
 
 ### 2.c IA: Sitemap + Labelling 
