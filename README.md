@@ -188,7 +188,7 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 ### 2.a Reframing / IDEACION: Empathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
-![EmpathyMap](P2/EmpathyMap.pdf)
+![EmpathyMap](P2/EmpathyMap.png)
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
@@ -206,6 +206,8 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 ![Método UX](img/ScopeCanvas.png)
 ----
 
+![ScopeCanvas](P2/ScopeCanvas_Alinyo-1.png)
+
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
@@ -216,6 +218,10 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+
+![Sitemap](P2/sitemap_.png)
+
+![Sitemap](P2/Sitemap-1png)
 
 
 ### 2.c IA: Sitemap + Labelling 
