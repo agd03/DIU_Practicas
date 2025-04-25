@@ -246,7 +246,27 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+>>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
+
+**HomePage**
+
+
+![HomePage](P2/HomePage.png)
+
+**Talleres (vista de lista)**
+
+
+![Talleres_lista](P2/Talleres_lista.png)
+
+**Talleres (vista de calendario)**
+
+
+![Talleres_calendario](P2/Talleres_calendario.png)
+
+**Ficha de taller**
+
+
+![Ficha_taller](P2/Ficha_taller.png)
 
 <br>
 
