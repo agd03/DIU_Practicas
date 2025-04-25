@@ -190,6 +190,8 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 ----
 ![EmpathyMap](P2/EmpathyMap.png)
 
+- [Ver Empathy Map](P2/EmpathyMap.pdf)
+
 Tras analizar los perfiles de Marta y Sophie en el mapa de empatía, hemos detectado algunas diferencias importantes en cómo cada una vive o se imagina la experiencia de asistir a un taller de cocina. Marta valora mucho el diseño, lo visual y los contenidos relacionados con la cocina saludable. Sophie, en cambio, se mueve más por el componente social y busca sentirse incluida, sobre todo teniendo en cuenta la barrera del idioma y la edad.
 
 Aunque la competencia (en este caso Granada Cooking) ofrece una propuesta interesante, y cuenta con elementos como valoraciones de usuarios, hay aspectos que no termina de cubrir del todo: la navegación no está adaptada a personas que no hablan español, no hay posibilidad de filtrar talleres por idioma o nivel, y visualmente podría ser más clara y llamativa. Esto hace que ciertas personas se sientan algo inseguras a la hora de reservar, o incluso que no lleguen a hacerlo.
@@ -204,6 +206,8 @@ Aliño nace con esa idea: crear una plataforma web clara, visual y accesible don
 ----
 
 ![ScopeCanvas](P2/ScopeCanvas.png)
+
+- [Ver Scope Canvas](P2/ScopeCanvas.pdf)
 
 Aliño propone una experiencia gastronómica accesible, consciente y conectada con el entorno local. A través de talleres de cocina con productos de proximidad, buscamos crear una comunidad en torno a la alimentación saludable, visibilizar a los productores y facilitar la participación de todo tipo de usuarios, sin barreras de idioma o nivel. Nuestro objetivo es rediseñar la experiencia digital para que sea clara, multilingüe y usable, potenciando tanto la reserva de talleres como la compra de productos asociados.
 
