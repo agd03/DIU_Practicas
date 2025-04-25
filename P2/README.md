@@ -16,7 +16,7 @@
 * Task flows:
   * [Reservar taller](TaskFlow1.png)
   * [Comprar productos](TaskFlow2.png)
-  * [Proponer producto](TaskFlow.png)
+  * [Proponer producto](TaskFlow3.png)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
