@@ -190,68 +190,98 @@ Aunque la web tiene una buena base, necesita mejorar la usabilidad del sistema d
 ----
 ![EmpathyMap](P2/EmpathyMap.png)
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+Tras analizar los perfiles de Marta y Sophie en el mapa de empatía, hemos detectado algunas diferencias importantes en cómo cada una vive o se imagina la experiencia de asistir a un taller de cocina. Marta valora mucho el diseño, lo visual y los contenidos relacionados con la cocina saludable. Sophie, en cambio, se mueve más por el componente social y busca sentirse incluida, sobre todo teniendo en cuenta la barrera del idioma y la edad.
 
+Aunque la competencia (en este caso Granada Cooking) ofrece una propuesta interesante, y cuenta con elementos como valoraciones de usuarios, hay aspectos que no termina de cubrir del todo: la navegación no está adaptada a personas que no hablan español, no hay posibilidad de filtrar talleres por idioma o nivel, y visualmente podría ser más clara y llamativa. Esto hace que ciertas personas se sientan algo inseguras a la hora de reservar, o incluso que no lleguen a hacerlo.
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+A raíz de esto, nos planteamos cómo podría ser una web más accesible, inclusiva y cercana, y nos surgen algunas preguntas. ¿Y si no solo mostramos talleres, sino también la historia detrás de cada ingrediente y cada productor? ¿Y si hubiera más opciones para adaptar la experiencia a distintos perfiles, sin complicarla?
+
+Aliño nace con esa idea: crear una plataforma web clara, visual y accesible donde cualquier persona —local o extranjera— pueda descubrir y reservar talleres de cocina saludables, conectando con productores locales y compartiendo la experiencia con otras personas. Nuestra propuesta de valor se centra en esa conexión: entre personas, con el territorio y con los ingredientes.
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-![ScopeCanvas](P2/ScopeCanvas_Alinyo-1.png)
+![ScopeCanvas](P2/ScopeCanvas.png)
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
+Aliño propone una experiencia gastronómica accesible, consciente y conectada con el entorno local. A través de talleres de cocina con productos de proximidad, buscamos crear una comunidad en torno a la alimentación saludable, visibilizar a los productores y facilitar la participación de todo tipo de usuarios, sin barreras de idioma o nivel. Nuestro objetivo es rediseñar la experiencia digital para que sea clara, multilingüe y usable, potenciando tanto la reserva de talleres como la compra de productos asociados.
 
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+Para el análisis de tareas se ha creado una **User/Task Matrix**, una herramienta de diseño centrado en el usuario que sirve para cruzar los diferentes tipos de usuarios de una interfaz con las tareas que pueden realizar dentro de ella. Nos ayuda a identificar qué acciones son más relevantes o frecuentes para cada perfil, y con ello, priorizar el diseño de pantallas, funcionalidades y contenidos. En el caso de Aliño, la matriz nos ha permitido comparar las necesidades de Marta, Sophie y los proveedores locales, y tomar decisiones de diseño más informadas y adaptadas a sus diferencias.
 
-**Reservar un taller**
+- [Ver User/Task Matrix](P2/UserTask_Matrix.pdf)
+
+A partir de la User/Task Matrix, se han definido tres recorridos principales que cubren las tareas más representativas. Estos flujos nos permiten visualizar paso a paso cómo interactúan los usuarios con la aplicación, y nos ayudan a validar que el diseño propuesto responde a sus necesidades de forma clara, eficiente y accesible.
+
+**Reservar taller**
+
+
 ![Taskflow1](P2/TaskFlow1.png)
 
-**Comprar un producto**
+- [Ver TaskFlow de "Reservar taller"](P2/TaskFlow1.png)
+
+
+**Comprar producto**
+
+
 ![Taskflow2](P2/TaskFlow2.png)
 
-**Proponer un producto**
+- [Ver TaskFlow de "Comprar producto"](P2/TaskFlow2.png)
+
+**Proponer producto**
+
+
 ![Taskflow3](P2/TaskFlow3.png)
+
+- [Ver TaskFlow de "Proponer producto"](P2/TaskFlow3.png)
 
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
+Para organizar bien la navegación de la web y facilitar la comprensión de los contenidos, hemos trabajado la arquitectura de la información desde dos enfoques: el sitemap y el labelling.
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+**Sitemap**
 
-![Sitemap](P2/sitemap_.png)
+
+![Sitemap](P2/Sitemap.png)
+
+- [Ver Sitemap](P2/Sitemap.pdf)
+
+El sitemap es un esquema visual que muestra cómo se estructura la web: qué páginas existen, cómo se relacionan entre sí y qué elementos son comunes en toda la plataforma (como el navbar o el footer). Nos ayuda a tener una visión global de la navegación y a asegurarnos de que todo está bien conectado. Para crearlo hemos utilizado la herramienta [FlowMapp](https://www.flowmapp.com/), que nos ha permitido construirlo de forma clara, ordenada y visual.
+
+**Labelling**
+
+Por otro lado, el labelling consiste en definir con cuidado los nombres que daremos a cada sección o elemento del sitio. Se han evitado tecnicismos y anglicismos innecesarios, usando etiquetas sencillas y comprensibles por cualquier tipo de usuario. Cada término va acompañado de una pequeña explicación sobre su función, lo que también nos ayuda a mantener consistencia en el diseño y preparar la web para una futura versión multilingüe.
+
+- [Ver Labelling](P2/Labelling.pdf)
+
+Gracias a este trabajo previo, ahora tenemos una base sólida para el diseño de menús, botones y rutas de navegación. Todo está pensado para que el usuario, ya sea local o extranjero, se mueva por la web de forma intuitiva y sin obstáculos.
 
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
+Como parte del proceso de diseño centrado en el usuario, se han creado varios wireframes en baja fidelidad (Lo-Fi) que simulan la estructura visual de las pantallas principales de la web. Estos bocetos permiten definir la jerarquía de los elementos, probar ideas de distribución y validar la funcionalidad sin distraernos con detalles estéticos o visuales.
+
+Primero se realizaron los bocetos a mano, en iPad en mi caso, como paso inicial para organizar contenidos y explorar distintas opciones de layout. Posteriormente, estas ideas se trasladaron a Figma, utilizando la plantilla de "Website Wireframe" disponible en la comunidad. Esto nos permite mantener un diseño limpio, reutilizable y coherente entre pantallas.
+
+Los wireframes representan las vistas más importantes del sitio: la homepage, las dos formas de explorar los talleres (en lista y en calendario), y la ficha de taller. Cada una de ellas ha sido pensada para responder a las necesidades detectadas en el empathy map y la User Task Matrix, manteniendo siempre el foco en la claridad, la accesibilidad y la facilidad de navegación.
+
+- [Ver Borradores](P2/Borradores.pdf)
 
 **HomePage**
 
 
 ![HomePage](P2/HomePage.png)
+
 
 **Talleres (vista de lista)**
 
@@ -262,6 +292,7 @@ Término | Significado
 
 
 ![Talleres_calendario](P2/Talleres_calendario.png)
+
 
 **Ficha de taller**
 
