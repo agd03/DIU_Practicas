@@ -339,70 +339,83 @@ La landing page de Aliño sigue el estilo definido en el moodboard, con una est�
 
 Esta sección recoge los principales **patrones de diseño de interfaz (UI Patterns)** y **guías visuales (guidelines)** aplicadas en el desarrollo del prototipo móvil de **Aliño**, basadas en las recomendaciones de [Material Design 3](https://m3.material.io/) y adaptadas al estilo visual definido en el proyecto.
 
-#### Patrones de Diseño (UI Patterns)
+#### UI Guidelines (Versión móvil)
 
-**1. Onboarding**
-Pantallas introductorias que presentan el proyecto con eslóganes como “Sabor local, cocina consciente” y una imagen de fondo en carrusel. Inspirado en el patrón de bienvenida de Material Design.
+**Referencias y recursos base**
 
-**2. Menú inferior (NavBar móvil)**
-Barra de navegación fija con 3–4 íconos (Inicio, Talleres, Reservas, Perfil), basada en el patrón de *Bottom Navigation Bar* para móviles.
+- Google Material Design (Material 3): https://m3.material.io/
+- Kit de diseño Material 3 para Figma: [Figma Community](https://www.figma.com/community/file/1035203688168086460/material-3-design-kit)
+- UXPin Web UI Design Patterns Vol. 1: https://www.uxpin.com/studio/ebooks/web-ui-design-patterns-2016-volume-1/
 
-**3. Hero Image + Carrusel**
-Imagen destacada con frases clave que encabeza la página de inicio. El fondo permite desplazamiento horizontal (carrusel) con imágenes de talleres, productos locales y espacios.
+**Principios generales de diseño**
 
-**4. Buscador (Search)**
-Campo de búsqueda con icono de lupa y texto de ejemplo. Se utilizará en la pantalla de talleres para filtrar contenido.
+- Consistencia visual: Uso de una paleta cromática definida, jerarquía clara de textos y componentes coherentes.
+- Diseño accesible: Contrastes adecuados, tipografía legible, botones accesibles.
+- Mobile-first: Diseño completamente adaptado a dispositivos móviles.
+- Interacción centrada en el usuario: Flujo intuitivo, patrones reconocibles y procesos guiados.
 
-**5. Wizard de reserva (proceso en pasos)**
-Flujo de reserva estructurado en 3 pasos:  
-Seleccionar taller → Elegir fecha → Confirmar reserva.  
-Basado en el patrón *Stepper* de Material 3.
+**Paleta de colores (branding)**
 
-**6. Lista de talleres (Cards)**
-Vista vertical con tarjetas que muestran nombre, imagen y resumen de cada taller, con botón de acción. Basado en *Card List View*.
+- Verde principal: `#00E04F`
+- Verde menta claro: `#ADFFB6`
+- Blanco: `#FFFFFF`
+- Gris claro: `#D6D6D6`
+- Gris oscuro: `#3D3D3D`
 
-**7. Detalle de taller**
-Pantalla con la información completa de un taller: imagen destacada, descripción, fecha y botón de reserva.
+**Patrones UI aplicados**
 
-**8. Formulario de reserva**
-Formulario con campos como nombre, número de personas, fecha y comentarios. Usa los *Text Fields* estándar de Material Design.
+1. **Onboarding**
+   - Explicación inicial del propósito de Aliño.
+   - Introducción a la cocina consciente y talleres locales.
 
-**9. About / Sobre Aliño**
-Pantalla que describe la identidad del proyecto, su filosofía, datos de contacto y dirección física.
+2. **Menú (NavBar adaptada a móvil)**
+   - Menú inferior persistente con secciones: *Talleres*, *Productos*, *Sobre Aliño*, *Colabora*, *Idioma*.
 
-**10. Calendario de disponibilidad**
-Vista mensual para consultar qué días están disponibles los distintos talleres. Basado en el patrón de *Calendar Picker*.
+3. **Hero image + Carousel**
+   - Imagen destacada con eslogan: *Sabor local, cocina consciente*.
+   - Carrusel de productos o talleres destacados.
 
----
+4. **Search**
+   - Campo de búsqueda en la sección de talleres/productos.
+   - Filtro por categoría, nivel o disponibilidad.
 
-#### Guías de Estilo (Visual Guidelines)
+5. **Wizards (explicación de proceso)**
+   - Pasos visuales para completar una reserva de taller.
+   - Proceso guiado para finalizar la compra.
 
-**Paleta de color**
+6. **Article List (5–7 cards)**
+   - Tarjetas con imágenes, nombre, origen y precio de productos locales.
+   - Lista de talleres con fecha, nivel y botón de reserva.
 
-| Color           | HEX       | Uso                        |
-|----------------|-----------|-----------------------------|
-| Verde principal| `#00E04F` | Botones, acentos principales |
-| Verde menta    | `#ADFFB6` | Fondos suaves, tarjetas      |
-| Blanco         | `#FFFFFF` | Fondo general                |
-| Gris claro     | `#D6D6D6` | Líneas, bordes               |
-| Gris oscuro    | `#3D3D3D` | Texto principal              |
+7. **Item details + actions**
+   - Página de detalle para talleres y productos.
+   - Información detallada y CTA (comprar / reservar).
 
-**Tipografía**
+8. **Reserva**
+   - Calendario interactivo para seleccionar fechas de talleres.
+   - Confirmación con resumen y datos del evento.
 
-- **Titulares:** Hind Madurai (SemiBold)
-- **Subtítulos / botones:** Inter
-- **Texto base:** Libre Franklin
+9. **Form Input**
+   - Formularios accesibles con campos bien espaciados y etiquetas claras.
 
-**Componentes y estilo general**
+10. **Shopping Cart**
+    - Vista de productos seleccionados.
+    - Total y botón de pago/reserva.
 
-- **Botones:** Rectangulares, bordes redondeados, fondo verde (`#00E04F`) con texto blanco.
-- **Inputs:** Campos simples con borde gris claro y texto de ayuda.
-- **Tarjetas:** Card con imagen, título y descripción; sombra muy suave.
-- **Iconografía:** Estilo lineal (Material Icons o FontAwesome), uso coherente de iconos como lupa, calendario, perfil, check, menú.
+11. **About**
+    - Sección *Sobre nosotros* con misión y valores de Aliño.
+    - Información de contacto y mapa.
 
----
+**Elementos opcionales incluidos**
 
-Los elementos y patrones descritos se desarrollarán visualmente en el **Paso 4 (Layout Hi-Fi)**, usando componentes del sistema Material 3 adaptados al estilo y necesidades del proyecto Aliño.
+- **Calendario de eventos**
+  - Selección por día desde un calendario mensual adaptado a móvil.
+  
+- **Etiquetas y categorías**
+  - Filtros visuales para explorar por tipo de taller, nivel o idioma.
+
+
+Los elementos y patrones descritos se desarrollarán visualmente a continuación, usando componentes del sistema Material 3 adaptados al estilo y necesidades del proyecto Aliño.
 
 
 
@@ -410,15 +423,12 @@ Los elementos y patrones descritos se desarrollarán visualmente en el **Paso 4 
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+- [Ver Prototipo](https://www.figma.com/proto/S7slxbfggiDGoF8RZyuARQ/Hi-FI_P3?node-id=33-305&t=ItcOqESpfAJquXVv-1)
+  
+El layout Hi-Fi de Aliño presenta una interfaz móvil intuitiva y visualmente coherente, centrada en la promoción de talleres gastronómicos y productos locales. Utilizando herramientas de [Material 3 Design Kit](https://www.figma.com/community/file/1035203688168086460), combina una navegación clara, tarjetas visuales y una estética fresca y accesible que refleja los valores del proyecto: cocina consciente, cercanía y sostenibilidad.
 
+![Layout](P3/layout.png)
 
-### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
------
-
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
 <br>
 
