@@ -20,6 +20,7 @@ Una propuesta que une sabor, bienestar y sostenibilidad.
 Logotipo: 
 
 ![Logo](P3/logo2.png)
+
 _Sabor local, cocina consciente_
 
 Miembros:
