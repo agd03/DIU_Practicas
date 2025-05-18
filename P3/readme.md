@@ -2,8 +2,9 @@
 
 - [Moodboard (diseño visual + logotipo)](Moodboard.png)   
 - [Landing Page](LandingPage.png)
-- [Mockup: LAYOUT HI-FI](Layout.pdf)
-- Publicación del Case Study
+- [Mockup: LAYOUT HI-FI versión pdf](Layout.pdf)
+- [Mockup: LAYOUT HI-FI responsivo](https://www.figma.com/proto/S7slxbfggiDGoF8RZyuARQ/Hi-FI_P3?node-id=2040-1717&t=iAso2nof1AHcZrq8-1)
+- [Publicación del Case Study](https://github.com/agd03/DIU_Practicas/tree/master)
 
 ### Valoración final de la práctica
 
