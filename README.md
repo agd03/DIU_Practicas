@@ -14,10 +14,13 @@ Proyecto:
 Descripción: 
 
 Aliño nace para ofrecer experiencias culinarias basadas en una cocina consciente, saludable y accesible. A través de talleres con ingredientes de cercanía y un entorno inclusivo, buscamos conectar a personas con la cultura local desde el sabor, fomentando una relación más ética con los alimentos y el entorno.
+Se trata de un centro de talleres gastronómicos donde se aprende a cocinar con productos locales, frescos y saludables.
+Una propuesta que une sabor, bienestar y sostenibilidad.
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo](P3/logo2.png)
+_Sabor local, cocina consciente_
 
 Miembros:
  * :bust_in_silhouette:  Ana Graciani Donaire     :octocat:     [agd03](https://github.com/agd03)
