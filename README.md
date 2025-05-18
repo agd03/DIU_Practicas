@@ -307,23 +307,26 @@ Los wireframes representan las vistas más importantes del sitio: la homepage, l
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+En esta práctica desarrollamos el prototipo Hi-Fi de la app Aliño, adaptado a móvil. A partir de los bocetos anteriores, se definió la guía visual, se aplicaron patrones de diseño basados en Material Design y se construyó un prototipo interactivo en Figma que simula la experiencia del usuario final.
 
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+El moodboard de _Aliño_ recoge los principales elementos visuales del proyecto: logotipo, paleta de colores, tipografía, imágenes de inspiración y perfil de usuario. El logotipo fue creado con [Logoponi](https://logoponi.es/) y las imágenes de marca se seleccionaron desde [Pinterest](https://es.pinterest.com/) para reflejar un estilo natural, fresco y cercano. Se ha utilizado la plantilla disponible en el espacio de la asignatura en Figma, lo que ha permitido estructurar de forma clara y coherente los elementos visuales.
+La resolución está pensada para entorno digital, ideal para presentaciones o prototipos. Para redes sociales como Instagram, sería necesario adaptar el formato a una versión más vertical o cuadrada con foco visual.
+
+![Moodboard](P3/Moodboard.png)
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+La landing page de Aliño sigue el estilo definido en el moodboard, con una estética natural, cercana y luminosa. Utiliza la paleta de verdes, tipografía limpia e imágenes inspiradoras que refuerzan el mensaje principal: “Sabor local, cocina consciente”. Incluye un carrusel visual, beneficios clave del proyecto y una llamada a la acción clara: “¡Explora nuestros talleres!”.
+
+![LandingPage](P3/LandingPage.png)
 
 
 ### 3.c Guidelines
