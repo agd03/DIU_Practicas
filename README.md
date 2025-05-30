@@ -443,8 +443,8 @@ El layout Hi-Fi de Aliño presenta una interfaz móvil intuitiva y visualmente c
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| 1 - Paula  | M / 22   | Estudiante  | Alta       | Introvertido | móvil       | A 
+| 2 - Pablo  | H / 21   | Estudiante  | Alta       | Extrovertido       | móvil        | B
 | User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
@@ -457,6 +457,9 @@ El layout Hi-Fi de Aliño presenta una interfaz móvil intuitiva y visualmente c
 
 
 
+
+
+
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
@@ -464,7 +467,22 @@ El layout Hi-Fi de Aliño presenta una interfaz móvil intuitiva y visualmente c
 >>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+>>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados
+
+
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+||PREGUNTAS|1|2|3|4|5|
+|1|Creo que me gustará visitar con frecuencia este website|5|4||||
+|2|Encontré el website innecesariamente complejo|1|2||||
+|3|Pensé que era fácil utilizar este website|5|5||||
+|4|Creo que necesitaría del apoyo de un experto para recorrer el website|1|1||||
+|5|Encontré las funciones del website bastante bien integradas|4|2||||
+|6|Pensé que había demasiada inconsistencia en el website|1|||||
+|7|Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website|5|4||||
+|8|Encontré el website muy grande al recorrerlo|1|2||||
+|9|Me sentí muy confiado en el manejo del website|4|5||||
+|10|Necesito aprender muchas cosas antes de manejarse en el website|1|1||||
 
 
 ### 4.d A/B Testing
