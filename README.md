@@ -556,11 +556,6 @@ Por tanto, **el prototipo Aliño (caso A) ofrece una experiencia de usuario más
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados
-
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
@@ -618,11 +613,11 @@ Por tanto, aunque comprendo que los usuarios puedan haber valorado mejor la simp
 
 #### Pantalla principal – Caso B (La Goma)
 
-**Usuario 2**
-![lagoma1](P4/lagoma1.png)
+**Usuario 2 y 4**
 
-**Usuario 4**
-![lagoma1](P4/lagoma2.png)
+
+![lagoma1](P4/lagoma1.png) ![lagoma1](P4/lagoma2.png)
+
 
 Se observaron las siguientes tendencias en los mapas de calor:
 
@@ -633,11 +628,12 @@ Se observaron las siguientes tendencias en los mapas de calor:
 
 #### Comparación con el caso A (Aliño)
 
-**Usuario 1**
-![lagoma1](P4/alinyo1.png)
+**Usuarios 1 y 3**
 
-**Usuario 3**
-![lagoma1](P4/alinyo2.png)
+
+![lagoma1](P4/alinyo1.png) ![lagoma1](P4/alinyo2.png)
+
+
 
 Aunque el experimento estaba centrado en el caso B, se realizaron pruebas equivalentes con Aliño para comparar resultados:
 
