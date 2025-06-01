@@ -436,28 +436,59 @@ El layout Hi-Fi de Aliño presenta una interfaz móvil intuitiva y visualmente c
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+El caso B corresponde al rediseño web del café-bar **La Goma**, un espacio vegano y cultural ubicado en Granada. El objetivo del proyecto es facilitar la comunicación entre el local y sus clientes, permitiendo consultar el menú, conocer las actividades culturales programadas, y realizar reservas de forma sencilla desde una página web atractiva y accesible.
+
+La propuesta se inspira en valores como la sostenibilidad, la alimentación consciente y la apertura cultural. Estos conceptos se reflejan en el diseño visual mediante una paleta de colores tierra, tipografía legible y un enfoque visual natural. Entre las secciones clave de la web se encuentran: **inicio con calendario, menú detallado, actividades, formulario de reserva, reseñas** y un apartado sobre el local.
+
+- [Repositorio del caso B (La Goma)](https://github.com/lunaanelia/DIU_UX_CaseStudy/tree/master)
+- [Prototipo](https://www.figma.com/proto/6JI75VXxkkAEUZxOk010fu/La-Goma.com-by-DIU1.AlexMarcos?node-id=2438-4469&p=f&t=hIAQcQax5B8Qg20q-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=473%3A768)
 
 
+#### Usuarios de muestra para tests
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| 1 - Paula  | M / 22   | Estudiante  | Alta       | Introvertido | móvil       | A 
-| 2 - Pablo  | H / 21   | Estudiante  | Alta       | Extrovertido       | móvil        | B
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso | Posibles situaciones conflictivas
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | -----------------------------
+| U1 - Paula  | M / 22   | Estudiante  | Alta       | Introvertido | móvil       | A | Puede perderse si la interfaz es confusa o sobrecargada.
+| U2 - Pablo  | H / 21   | Estudiante  | Alta       | Extrovertido       | móvil        | B | Puede saltarse pasos o no fijarse en los detalles.
+| U3 - Andrés  | H / 20   | Estudiante     | Alta        | Extrovertida    | móvil      | B | Se impacienta si el flujo es largo o poco claro.
+| U4 - Manuel  | H / 22   | Estudiante  | Baja       | Racional     | móvil        | B | Necesita estructura lógica; confusión si no hay jerarquía clara.
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Se ha planificado un conjunto de pruebas para evaluar la usabilidad y eficacia de los prototipos correspondientes a los casos A (Aliño) y B (La Goma), utilizando técnicas comunes en investigación UX. Las pruebas se han desarrollado de forma remota, a través de [Maze](https://maze.co/) y [Gaze Recorder](https://app.gazerecorder.com/) (una herramienta de eye tracking).
+
+Aunque no se aplicó formalmente el checklist de la P1, se tuvieron en cuenta varios de sus principios (visibilidad, control del usuario, consistencia, prevención de errores) al observar los comportamientos y recopilar comentarios de los usuarios.
+
+#### 1. A/B Testing (Maze)
+
+Se diseñaron dos tests paralelos en Maze, uno para cada prototipo, asignando 2 usuarios a cada caso.
+
+Se diseñaron dos tests de usabilidad, uno para el caso A (Aliño) y otro para el caso B (La Goma), con tareas equivalentes que permiten comparar la experiencia del usuario en ambos prototipos.
+
+Después de realizar esas tareas y navegar por la aplicación se recoge el siguiente feedback:
+- Experiencia general en la aplicación
+- Facilidad de encontrar lo que se buscaba
+- Intención de recomendación
+- Valoración estética de la aplicación
 
 
+#### 2. Test SUS (System Usability Scale)
 
+Al finalizar cada test en Maze, se incluyó un bloque con las 10 preguntas del cuestionario SUS, adaptadas a un lenguaje comprensible para los usuarios.
 
+Con esto se obtuvo una puntuación de percepción de usabilidad por usuario, lo que permite comparar la experiencia general entre ambos prototipos.
+
+#### 3. Eye Tracking
+
+Cada usuario fue expuesto durante 20 segundos a la pantalla de inicio del prototipo que le correspondía (A o B), usando la herramienta Gaze Recorder. Las pruebas fueron de tipo exploración libre, con la siguiente instrucción:
+
+> “Observa la pantalla como si estuvieras usando una app nueva.”
+
+A partir de las grabaciones se generaron mapas de calor para cada usuario, lo que permitió identificar qué zonas de la interfaz llamaban más la atención (áreas de interés) y cuáles pasaban desapercibidas. Esto ayudó a detectar diferencias entre lo que el diseño intentaba destacar y lo que realmente percibían los usuarios.
 
 
 ### 4.c Cuestionario SUS
@@ -470,24 +501,67 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados
 
 
-|   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|
-||PREGUNTAS|1|2|3|4|5|
-|1|Creo que me gustará visitar con frecuencia este website|5|4||||
-|2|Encontré el website innecesariamente complejo|1|2||||
-|3|Pensé que era fácil utilizar este website|5|5||||
-|4|Creo que necesitaría del apoyo de un experto para recorrer el website|1|1||||
-|5|Encontré las funciones del website bastante bien integradas|4|2||||
-|6|Pensé que había demasiada inconsistencia en el website|1|||||
-|7|Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website|5|4||||
-|8|Encontré el website muy grande al recorrerlo|1|2||||
-|9|Me sentí muy confiado en el manejo del website|4|5||||
-|10|Necesito aprender muchas cosas antes de manejarse en el website|1|1||||
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+||PREGUNTAS|U1|U2|U3|U4|
+|1|Creo que me gustará visitar con frecuencia este website|5|4|3|2|
+|2|Encontré el website innecesariamente complejo|1|2|1|1|
+|3|Pensé que era fácil utilizar este website|5|5|4|5|
+|4|Creo que necesitaría del apoyo de un experto para recorrer el website|1|1|1|1|
+|5|Encontré las funciones del website bastante bien integradas|4|2|3|2|
+|6|Pensé que había demasiada inconsistencia en el website|1|1|1|2|
+|7|Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website|5|4|4|2|
+|8|Encontré el website muy grande al recorrerlo|1|2|1|1|
+|9|Me sentí muy confiado en el manejo del website|4|5|4|5|
+|10|Necesito aprender muchas cosas antes de manejarse en el website|1|1|1|4|
 
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
+
+#### Test A – Aliño
+
+**Tareas:**
+1. Acceder a la vista en calendario de los talleres disponibles.
+2. Encontrar el mapa que muestra nuestra localización.
+3. Explorar libremente la aplicación.
+
+
+
+**Feedback recogido:**
+- Opinión general media: **5/6**
+- Facilidad para encontrar lo buscado, aunque el mapa no fue fácil de localizar de inmediato.
+- Buena valoración estética y percepción de claridad.
+
+[Enlace al test](https://t.maze.co/391288018?guerilla=true)
+[Enlace a los resultados](https://app.maze.co/report/testAlinyo/3mean7mbb0c9c3/intro)
+
+---
+
+#### Test B – La Goma
+
+**Tareas:**
+1. Acceder al calendario para fijar tu actividad.
+2. Consultar las reseñas de usuarios anteriores.
+3. Explorar la aplicación libremente.
+
+**Feedback recogido:**
+- Opinión general media: **4.5/6**
+- Facilidad para encontrar lo buscado, pero encontrar las reseñas fue menos intuitivo.
+- Diseño valorado positivamente, aunque algo más cargado visualmente.
+
+* No se incluye enlace directo al test ni a los resultados porque tuvo que realizarse de forma offline por problemas con la plataforma Maze.
+  
+---
+
+Ambos tests fueron ejecutados por 2 usuarios cada uno. Las métricas obtenidas incluyen:
+- Nivel de confianza de navegación (CONFIDENCE: Level 0)
+- Tasa de éxito por tarea
+- Respuestas a escalas de opinión
+- Comentarios cualitativos
+
+Estas pruebas permitieron observar diferencias en la claridad de los flujos, organización de la información y diseño visual entre los casos A y B.
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
