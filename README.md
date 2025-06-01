@@ -451,7 +451,7 @@ La propuesta se inspira en valores como la sostenibilidad, la alimentación cons
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | -----------------------------
 | U1 - Paula  | M / 22   | Estudiante  | Alta       | Introvertido | móvil       | A | Puede perderse si la interfaz es confusa o sobrecargada.
 | U2 - Pablo  | H / 21   | Estudiante  | Alta       | Extrovertido       | móvil        | B | Puede saltarse pasos o no fijarse en los detalles.
-| U3 - Andrés  | H / 20   | Estudiante     | Alta        | Extrovertida    | móvil      | B | Se impacienta si el flujo es largo o poco claro.
+| U3 - Andrés  | H / 20   | Estudiante     | Alta        | Extrovertida    | móvil      | A | Se impacienta si el flujo es largo o poco claro.
 | U4 - Manuel  | H / 22   | Estudiante  | Baja       | Racional     | móvil        | B | Necesita estructura lógica; confusión si no hay jerarquía clara.
 
 
@@ -485,14 +485,74 @@ Con esto se obtuvo una puntuación de percepción de usabilidad por usuario, lo 
 
 #### 3. Eye Tracking
 
-Cada usuario fue expuesto durante 20 segundos a la pantalla de inicio del prototipo que le correspondía (A o B), usando la herramienta Gaze Recorder. Las pruebas fueron de tipo exploración libre, con la siguiente instrucción:
+
+Para complementar la evaluación de usabilidad, se aplicó el método de eye tracking en el **caso B (La Goma)**, utilizando la herramienta **Gaze Recorder** en su versión gratuita, que permite generar mapas de calor a partir de la grabación de la mirada de hasta tres usuarios.
+
+Cada usuario fue expuesto durante 20 segundos a la pantalla de inicio del prototipo que le correspondía (A o B) y las pruebas fueron de tipo exploración libre, con la siguiente instrucción:
 
 > “Observa la pantalla como si estuvieras usando una app nueva.”
 
 A partir de las grabaciones se generaron mapas de calor para cada usuario, lo que permitió identificar qué zonas de la interfaz llamaban más la atención (áreas de interés) y cuáles pasaban desapercibidas. Esto ayudó a detectar diferencias entre lo que el diseño intentaba destacar y lo que realmente percibían los usuarios.
 
 
-### 4.c Cuestionario SUS
+### 4.c A/B Testing
+![Método UX](img/ABtesting.png) 
+-----
+
+#### Test A – Aliño
+
+**Tareas:**
+1. Acceder a la vista en calendario de los talleres disponibles.
+2. Encontrar el mapa que muestra nuestra localización.
+3. Explorar libremente la aplicación.
+
+
+
+**Feedback recogido:**
+- Opinión general media: **5/6**
+- Facilidad para encontrar lo buscado, aunque el mapa no fue fácil de localizar de inmediato.
+- Buena valoración estética y percepción de claridad.
+
+[Enlace al test](https://t.maze.co/391288018?guerilla=true)
+[Enlace a los resultados](https://app.maze.co/report/testAlinyo/3mean7mbb0c9c3/intro)
+
+-----
+
+#### Test B – La Goma
+
+**Tareas:**
+1. Acceder al calendario para fijar tu actividad.
+2. Consultar las reseñas de usuarios anteriores.
+3. Explorar la aplicación libremente.
+
+**Feedback recogido:**
+- Opinión general media: **4.375/6**
+- Facilidad para encontrar lo buscado, pero encontrar las reseñas fue menos intuitivo.
+- Diseño valorado positivamente, aunque algo más cargado visualmente.
+
+* No se incluye enlace directo al test ni a los resultados porque tuvo que realizarse de forma offline por problemas con la plataforma Maze.
+  
+-----
+
+|   |   |   |   |   |   |
+|---|---|------|------|------|------|
+||PREGUNTAS|U1 - A|U2 - B|U3 - A|U4 - B|
+|1|¿Cómo calificarías tu experiencia general usando esta app?|6|5|5|5|
+|2|¿Encontraste lo que buscabas fácilmente?|5|5|4|4|
+|3|¿Recomendarías esta app a otras personas?|5|4|5|3|
+|4|¿La aplicación te resultó atractiva visualmente?|6|4|4|5|
+
+
+A partir de los resultados del A/B testing, tanto en tareas como en valoraciones subjetivas, podemos concluir que el caso A (Aliño) resultó ser más usable que el caso B (La Goma).
+
+Los usuarios asignados al caso A completaron todas las tareas con éxito, otorgaron una **opinión general media más alta (5/6 frente a 4.375/6)** y destacaron una experiencia más clara y estructurada. Aunque hubo una ligera dificultad al localizar el mapa, la percepción global fue más positiva.
+
+En cambio, en el caso B, aunque también se completaron las tareas, la localización de elementos clave como las reseñas no fue tan intuitiva, y se observaron valoraciones algo más bajas en términos de recomendación y estética.
+
+Por tanto, **el prototipo Aliño (caso A) ofrece una experiencia de usuario más satisfactoria**, con una navegación más directa y una interfaz más clara para los usuarios evaluados.
+
+
+### 4.d Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
 
@@ -516,62 +576,71 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 |9|Me sentí muy confiado en el manejo del website|4|5|4|5|
 |10|Necesito aprender muchas cosas antes de manejarse en el website|1|1|1|4|
 
+#### Resultados
 
-### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
------
-
-#### Test A – Aliño
-
-**Tareas:**
-1. Acceder a la vista en calendario de los talleres disponibles.
-2. Encontrar el mapa que muestra nuestra localización.
-3. Explorar libremente la aplicación.
+Para evaluar la percepción de usabilidad de los usuarios sobre los prototipos, se utilizó el cuestionario SUS (System Usability Scale). Cada usuario respondió a las 10 preguntas tras completar su test correspondiente (caso A o B). A partir de sus respuestas se calcularon las puntuaciones totales según la metodología oficial.
 
 
+| Usuario | Caso | Puntuación SUS |
+|---------|------|-----------------|
+| U1      | A    | 95,0            |
+| U2      | B    | 82,5            |
+| U3      | A    | 82,5            |
+| U4      | B    | 67,5            |
 
-**Feedback recogido:**
-- Opinión general media: **5/6**
-- Facilidad para encontrar lo buscado, aunque el mapa no fue fácil de localizar de inmediato.
-- Buena valoración estética y percepción de claridad.
+**Promedio por caso**
 
-[Enlace al test](https://t.maze.co/391288018?guerilla=true)
-[Enlace a los resultados](https://app.maze.co/report/testAlinyo/3mean7mbb0c9c3/intro)
-
-----
-
-#### Test B – La Goma
-
-**Tareas:**
-1. Acceder al calendario para fijar tu actividad.
-2. Consultar las reseñas de usuarios anteriores.
-3. Explorar la aplicación libremente.
-
-**Feedback recogido:**
-- Opinión general media: **4.5/6**
-- Facilidad para encontrar lo buscado, pero encontrar las reseñas fue menos intuitivo.
-- Diseño valorado positivamente, aunque algo más cargado visualmente.
-
-* No se incluye enlace directo al test ni a los resultados porque tuvo que realizarse de forma offline por problemas con la plataforma Maze.
-  
-----
+- **Caso A (Aliño)**: **88,75**
+- **Caso B (La Goma)**: **75,00**
 
 
+Según la escala de referencia del SUS:
+
+- El caso **A (Aliño)** obtuvo una media de **88,75**, lo que se interpreta como una **experiencia excelente**.
+- El caso **B (La Goma)** obtuvo una media de **75,00**, que entra en la categoría de **buena**, aunque con margen de mejora en aspectos como la orientación inicial o la localización de ciertas funcionalidades.
+
+Estos resultados complementan las observaciones del A/B testing y refuerzan la conclusión de que el prototipo de Aliño fue percibido como más claro, fluido y usable por los usuarios.
 
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+#### Valoración personal
+
+Aunque los resultados del cuestionario SUS indican una valoración superior para el caso A (Aliño), no estoy del todo de acuerdo con esa conclusión. Si bien es cierto que Aliño puede resultar más claro visualmente y algo más directo en tareas concretas, no considero que su diseño sea especialmente destacable ni mucho más usable que el del caso B.
+
+De hecho, el prototipo de La Goma (caso B) me parece más completo en cuanto a estructura y funcionalidad. Incluye recursos muy valiosos para la experiencia móvil, como el uso de scroll en pantalla —algo esencial en apps móviles— y una navegación más rica, aunque ligeramente menos intuitiva en algunas partes. A mi juicio, esto aporta un mayor potencial a medio plazo, siempre que se resuelvan ciertos puntos de acceso y orientación inicial.
+
+Por tanto, aunque comprendo que los usuarios puedan haber valorado mejor la simplicidad de Aliño en una prueba rápida, considero que La Goma ofrece una base más robusta y adaptable para un producto real.
+
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
 
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+#### Pantalla principal – Caso B (La Goma)
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+Se observaron las siguientes tendencias en los mapas de calor:
+
+- **Alta concentración visual en la parte central**, especialmente sobre los textos de menú y actividad. Los títulos, precios y botones de reserva atrajeron correctamente la atención.
+- El botón del calendario fue visto, aunque no destacó tanto como otros elementos.
+- El footer (información de contacto/redes) recibió menos atención, lo cual es esperable al no tratarse de contenido de acción inmediata.
+- Se percibe un flujo de lectura de arriba hacia abajo con especial foco en la zona media de contenido (información y botones), lo que indica una jerarquía visual adecuada.
+
+#### Comparación con el caso A (Aliño)
+
+Aunque el experimento estaba centrado en el caso B, se realizaron pruebas equivalentes con Aliño para comparar resultados:
+
+- En Aliño, los ojos se concentraron en el **logo**, el botón “Explorar talleres” y algunos elementos visuales secundarios. 
+- Hubo **menos dispersión**, pero también menos interacción con la parte inferior o el menú de navegación.
+- La pantalla generó foco en lo visual (colores e imágenes) pero no tanto en el contenido textual o funcional.
+
+---
+
+Los resultados muestran que **La Goma dirige mejor la atención hacia elementos informativos y de acción directa**, como el menú del día y las actividades. Aunque su interfaz puede parecer más cargada visualmente, también ofrece más puntos de anclaje visual y funcional. 
+
+Es importante matizar que la pantalla "home" de La Goma **no es una página de inicio convencional**, sino que corresponde a uno de los apartados principales de la aplicación, centrado en la oferta diaria de menús y actividades. Esto influye en el tipo de información que los usuarios procesan, ya que se encuentran directamente en una vista de contenido práctico y accionable.
+
+En cambio, **Aliño presenta una estructura más minimalista**, con foco inicial muy claro —principalmente en el logo y en el botón “Explorar talleres”—, pero con menor recorrido visual en las zonas inferiores de la interfaz. Esto puede resultar positivo para tareas puntuales y accesos rápidos, pero menos eficaz en situaciones donde el usuario necesita explorar más información en pantalla.
 
 
 ### 4.f Usability Report de B
