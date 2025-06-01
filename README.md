@@ -469,12 +469,13 @@ Se diseñaron dos tests paralelos en Maze, uno para cada prototipo, asignando 2 
 
 Se diseñaron dos tests de usabilidad, uno para el caso A (Aliño) y otro para el caso B (La Goma), con tareas equivalentes que permiten comparar la experiencia del usuario en ambos prototipos.
 
-Después de realizar esas tareas y navegar por la aplicación se recoge el siguiente feedback:
-- Experiencia general en la aplicación
-- Facilidad de encontrar lo que se buscaba
-- Intención de recomendación
-- Valoración estética de la aplicación
+Ambos tests serán ejecutados por 2 usuarios cada uno. Las métricas obtenidas incluyen:
+- Nivel de confianza de navegación (CONFIDENCE: Level 0)
+- Tasa de éxito por tarea
+- Respuestas a escalas de opinión
+- Comentarios cualitativos
 
+Estas pruebas permitieron observar diferencias en la claridad de los flujos, organización de la información y diseño visual entre los casos A y B.
 
 #### 2. Test SUS (System Usability Scale)
 
@@ -537,7 +538,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 [Enlace al test](https://t.maze.co/391288018?guerilla=true)
 [Enlace a los resultados](https://app.maze.co/report/testAlinyo/3mean7mbb0c9c3/intro)
 
----
+----
 
 #### Test B – La Goma
 
@@ -553,15 +554,10 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 * No se incluye enlace directo al test ni a los resultados porque tuvo que realizarse de forma offline por problemas con la plataforma Maze.
   
----
+----
 
-Ambos tests fueron ejecutados por 2 usuarios cada uno. Las métricas obtenidas incluyen:
-- Nivel de confianza de navegación (CONFIDENCE: Level 0)
-- Tasa de éxito por tarea
-- Respuestas a escalas de opinión
-- Comentarios cualitativos
 
-Estas pruebas permitieron observar diferencias en la claridad de los flujos, organización de la información y diseño visual entre los casos A y B.
+
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
