@@ -616,8 +616,13 @@ Por tanto, aunque comprendo que los usuarios puedan haber valorado mejor la simp
 ----
 
 
-
 #### Pantalla principal – Caso B (La Goma)
+
+**Usuario 2**
+![lagoma1](P4/lagoma1.png)
+
+**Usuario 4**
+![lagoma1](P4/lagoma2.png)
 
 Se observaron las siguientes tendencias en los mapas de calor:
 
@@ -627,6 +632,12 @@ Se observaron las siguientes tendencias en los mapas de calor:
 - Se percibe un flujo de lectura de arriba hacia abajo con especial foco en la zona media de contenido (información y botones), lo que indica una jerarquía visual adecuada.
 
 #### Comparación con el caso A (Aliño)
+
+**Usuario 1**
+![lagoma1](P4/alinyo1.png)
+
+**Usuario 3**
+![lagoma1](P4/alinyo2.png)
 
 Aunque el experimento estaba centrado en el caso B, se realizaron pruebas equivalentes con Aliño para comparar resultados:
 
