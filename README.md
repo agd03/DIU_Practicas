@@ -631,7 +631,7 @@ Se observaron las siguientes tendencias en los mapas de calor:
 **Usuarios 1 y 3**
 
 
-![lagoma1](P4/alinyo1.png) ![lagoma1](P4/alinyo2.png)
+![ali1](P4/alinyo1.png) ![ali2](P4/alinyo2.png)
 
 
 
