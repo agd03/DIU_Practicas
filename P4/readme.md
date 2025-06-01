@@ -13,5 +13,12 @@
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 - Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+
+La Práctica 4 ha supuesto un reto importante en cuanto a planificación, herramientas y análisis. Ha sido interesante aplicar metodologías reales de evaluación de interfaces, como el test SUS, A/B testing o eye tracking, pero también ha resultado complicado llevarlo todo a cabo en tan poco tiempo. Más que por la complejidad técnica de las herramientas (Maze, Gaze Recorder, etc.), la dificultad ha estado en la escasa y a veces confusa explicación sobre estas en el guion de la práctica, lo que ha obligado a invertir mucho tiempo en entender cómo y para qué se usaban realmente.
+
+
+A nivel formal, los resultados obtenidos indican que el caso A (Aliño) ofrece una mejor experiencia de usuario según los datos del test SUS, la tasa de éxito en tareas y la percepción subjetiva de los participantes. Sin embargo, personalmente no estoy completamente de acuerdo con esa conclusión.
+
+Tras analizar más a fondo ambos prototipos, considero que **La Goma tiene un planteamiento más completo y realista**, especialmente en cuanto a estructura de contenido, scroll vertical, jerarquía funcional y riqueza informativa. Aunque puede ser visualmente más cargada en algunos puntos, **es una propuesta más cercana a lo que sería una app real**, mientras que Aliño, si bien es limpio y claro, resulta algo limitado a nivel funcional.
+
+En definitiva, esta práctica ha servido no solo para aplicar técnicas de evaluación, sino también para cuestionar hasta qué punto los resultados cuantitativos reflejan fielmente la experiencia global del usuario. Me quedo con la utilidad de estas herramientas, pero también con la necesidad de combinarlas siempre con criterio y análisis cualitativo.
