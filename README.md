@@ -599,11 +599,11 @@ Estos resultados complementan las observaciones del A/B testing y refuerzan la c
 
 #### Valoración personal
 
-Aunque los resultados del cuestionario SUS indican una valoración superior para el caso A (Aliño), no estoy del todo de acuerdo con esa conclusión. Si bien es cierto que Aliño puede resultar más claro visualmente y algo más directo en tareas concretas, no considero que su diseño sea especialmente destacable ni mucho más usable que el del caso B.
+Aunque los resultados del cuestionario SUS reflejan una valoración más alta para el caso A (Aliño), mi percepción personal es algo más matizada. Es cierto que Aliño ofrece una experiencia más clara a nivel visual y una navegación inicial más sencilla. Su diseño es limpio, estéticamente cuidado y transmite bien su identidad desde la pantalla de inicio. Esa coherencia visual puede haber influido positivamente en la valoración de los usuarios.
 
-De hecho, el prototipo de La Goma (caso B) me parece más completo en cuanto a estructura y funcionalidad. Incluye recursos muy valiosos para la experiencia móvil, como el uso de scroll en pantalla —algo esencial en apps móviles— y una navegación más rica, aunque ligeramente menos intuitiva en algunas partes. A mi juicio, esto aporta un mayor potencial a medio plazo, siempre que se resuelvan ciertos puntos de acceso y orientación inicial.
+Por otro lado, el caso B (La Goma) es un prototipo más desarrollado en cuanto a contenido y funcionalidad. Incluye más secciones activas, uso de scroll —algo esencial en apps móviles— y una estructura más cercana a una app real. Esto, sin embargo, también introduce más complejidad en la navegación, lo que puede haber impactado ligeramente en la percepción de facilidad de uso reflejada en el SUS.
 
-Por tanto, aunque comprendo que los usuarios puedan haber valorado mejor la simplicidad de Aliño en una prueba rápida, considero que La Goma ofrece una base más robusta y adaptable para un producto real.
+En resumen, mientras que Aliño destaca por su claridad visual y diseño estético, La Goma presenta una solución más completa y funcional. Ambos prototipos tienen puntos fuertes, y su comparación sirve para evidenciar cómo la usabilidad no depende solo de la funcionalidad, sino también de la forma en que esta se presenta y organiza visualmente.
 
 
 ### 4.e Aplicación del método Eye Tracking 
