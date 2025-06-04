@@ -10,7 +10,7 @@ Curso: 2024/25
 - [Objetivos](#objetivos)
 - [Parte I: Mi experiencia UX](#parte-i-mi-experiencia-ux)
   - [Actividades de clase](#actividades-de-clase)
-  - [Prácticas](#practicas) 
+  - [Prácticas](#prácticas) 
 - [Parte II: Caso de estudio](#parte-ii-caso-de-estudio)
   - [Análisis de la web](#análisis-de-la-web)
   - [Comparativa con otra film commission](#comparativa-con-otra-film-commission)
@@ -23,19 +23,57 @@ Curso: 2024/25
 El objetivo de este trabajo final es poner en práctica los conocimientos adquiridos en la asignatura de Diseño de Interfaces de Usuario a través de dos enfoques complementarios. Por un lado, se incluye un portfolio personal que recoge las aportaciones más relevantes realizadas durante el curso, con una valoración reflexiva sobre la experiencia y el aprendizaje en el ámbito de la UX/UI. Por otro, se desarrolla un caso práctico basado en el análisis y rediseño de una página web real de una film commission, con el propósito de mejorar su usabilidad, accesibilidad, estructura de la información y experiencia de usuario. Con esta combinación, se busca conectar la teoría con la práctica, aplicando metodologías y principios de diseño centrado en el usuario de forma justificada y coherente.
 
 
-## PARTE I: MI EXPERIENCIA UX
 
-### 1. Actividades de clase
+# PARTE I: MI EXPERIENCIA UX
 
-#### Actividad 1: Etnografía
+## Actividades de clase
+
+A continuación, hago una breve síntesis de las actividades de clase realizadas, destacando los puntos en los que mi aportación ha sido más significativa y que más han contribuido a mi aprendizaje en UX/UI.
 
 
+### Actividad 1: Etnografía
 
-### 2. Prácticas
+La observación etnográfica realizada en una parada de autobús puso en evidencia cómo la falta de información clara y la inconsistencia en el sistema de pago pueden generar confusión, estrés y decisiones incorrectas por parte del usuario. Esta experiencia me permitió comprender la importancia de observar a los usuarios en su contexto real para detectar problemas de diseño que no siempre son evidentes en entornos controlados. A nivel metodológico, confirmé el valor de la etnografía como técnica de UX Research para obtener insights relevantes en fases tempranas del diseño, y cómo factores como el entorno o la presión del tiempo influyen directamente en la experiencia de uso.
+
+Apliqué la técnica con rigor, obtuve insights relevantes y fui capaz de relacionar la observación con criterios de usabilidad y diseño contextualizado. Considero que la calidad de mi trabajo en esta actividad fue alta.
+
+### Actividad 2: Web Checklist
+
+En esta actividad analizamos una web real mediante una checklist detallada de criterios de buen diseño. En nuestro caso, observamos aspectos positivos como una buena proporción entre imágenes y texto, colores y tipografías coherentes, y una redacción clara y accesible. Sin embargo, también detectamos elementos mejorables que afectaban directamente a la experiencia de usuario, como la falta de navegación interna por categorías y un footer poco visible que limitaba el acceso rápido a información relevante.
+
+Este análisis me ayudó a comprender cómo ciertos detalles, como la ubicación o el diseño de un pie de página, pueden afectar de forma global a la usabilidad de una web. Además, me permitió interiorizar una forma sistemática de evaluar interfaces, más allá de la intuición, aplicando criterios objetivos relacionados con estructura, accesibilidad y consistencia visual. Esta experiencia reforzó mi capacidad crítica y me aportó una herramienta útil para futuras tareas de evaluación o rediseño.
+
+Fue una actividad más técnica que conceptual, y considero que ahí reside mi potencial, supe redirigir a mis compañeros de grupo cuando algún no veíamos claro algún punto del checklist. Estoy contenta con el resultado, aunque no creo que hiciéramos aportaciones esenciales que no apareciesen ya en las actividades de otros compañeros
+
+### Actividad 3: Moodboard
+
+Trabajamos en grupo la creación de un moodboard como punto de partida conceptual para un espacio cultural ficticio. En mi caso, participé en el desarrollo del proyecto *El foco de Granada*, centrado en ofrecer experiencias cinematográficas inmersivas y creativas. A través de esta tarea aprendí a traducir valores emocionales e intangibles —como la transformación, la expresión personal o la conexión social— en decisiones visuales coherentes. La elección de una paleta de colores basada en morados, azules y blanco suave reflejaba atmósferas de calma y misterio, mientras que el logotipo (una mariposa) reforzaba el simbolismo de la metamorfosis vivida en cada sesión.
+
+Desde el punto de vista del diseño de interfaces, esta actividad me ayudó a comprender cómo las primeras fases del proceso (inspiración, estilo visual, tono emocional) sientan las bases para una experiencia coherente a nivel narrativo y estético. Además, interioricé la importancia de trabajar con tipografías y elementos visuales que comuniquen no solo funcionalidad, sino también identidad y emoción, algo esencial en proyectos culturales con fuerte carga simbólica.
+
+Creo que fue una de mis contribuciones más completas. Me sentí muy cómoda en el grupo de trabajo y supimos unir lo conceptual con lo visual aportando una dirección clara al proyecto. Fue un trabajo cuidado y coherente desde lo emocional y lo narrativo, y eso se notó en el resultado final.
+
+### Actividad 4: Accesibilidad
+
+En esta ocasión evaluamos la accesibilidad de la web del Ayuntamiento de Toledo mediante herramientas como WAVE y simuladores de discapacidad. Pudimos comprobar cómo, a pesar de tener una estructura visual clara y un diseño responsive, la web presentaba carencias significativas para personas con discapacidades, como la imposibilidad de navegación por teclado o el mal funcionamiento del lector de pantalla. Estas pruebas me hicieron tomar conciencia real de lo que supone enfrentarse a una web inaccesible y de la importancia de diseñar pensando en todos los usuarios, no solo en los que no presentan barreras.
+
+Este ejercicio nos permitió aplicar los principios de diseño universal y entender mejor las WCAG desde una perspectiva práctica. Además, me ayudó a desarrollar sensibilidad hacia la inclusión digital y a identificar errores que muchas veces pasan desapercibidos en un análisis puramente visual. La accesibilidad no es solo una cuestión técnica, sino una responsabilidad ética dentro del diseño centrado en el usuario.
+
+Fue un trabajo equilibrado en el que destaqué por mi implicación en la reflexión final, especialmente al identificar limitaciones reales de ciertos colectivos. Considero muy valioso el aprendizaje de esta actividad.
+
+### Actividad 5: Animation Design
+
+Trabajamos en grupo para rediseñar una animación de bienvenida tomando como referencia el estilo de la web BIGMA, reinterpretando su movimiento suave con un enfoque más dinámico. Mi aportación consistió en seleccionar el diseño base a reinterpretar, definir los frames manualmente para simular el efecto de salto y ajustar la duración y el ritmo de la animación hasta lograr una secuencia visual fluida y expresiva. Usamos Smart Animate en Figma para conectar los seis frames en bucle sin utilizar plugins, lo que nos permitió entender mejor cómo funcionan las transiciones naturales entre elementos.
+
+Esta experiencia me permitió experimentar de forma práctica con microinteracciones, aprendiendo a cuidar detalles como la temporalidad, la progresión visual y la coherencia estética. A nivel UX, entendí cómo un onboarding bien diseñado no solo capta la atención del usuario desde el primer segundo, sino que también transmite el tono y la energía del producto. 
+
+Siento que nuestra aportación fue funcional pero no especialmente creativa. Cumplimos con los requisitos técnicos, pero no llegamos a explorar a fondo las posibilidades expresivas de la animación. Aun así, fue útil para afianzar el uso de Smart Animate y comprender los ritmos de interacción en pantallas dinámicas.
+
+## Prácticas
 
 A continuación mencionaré las herramientas utilizadas y aportaciones que considero más destacables de cada una de las prácticas realizadas en la asignatura.
 
-#### Paso 1: UX User & Desk Research & Analisis
+### Paso 1: UX User & Desk Research & Analisis
 
 Esta práctica supuso un cambio en mi forma de analizar interfaces: fue mi primer contacto real con herramientas de investigación UX y aprendí a observar la web desde la perspectiva de un nuevo usuario, no como desarrollador.
 
@@ -46,7 +84,7 @@ Después, crear los **User Journey Maps** de Marta y Sophie me ayudó a entender
 Por último quiero destacar la realización de una evaluación heurística utilizando el **Usability Review**, una plantilla de 45 criterios basada en principios de usabilidad. Analicé la web teniendo en cuenta los perfiles definidos, lo que me permitió justificar cada puntuación y proponer mejoras concretas, como incluir filtros, facilitar la navegación o añadir feedback en procesos clave.
 
 
-#### Paso 2: UX Design
+### Paso 2: UX Design
 
 En esta práctica pasé del análisis a la propuesta de diseño, centrando el trabajo en cómo resolver de forma coherente los problemas detectados en fases anteriores.
 
@@ -56,7 +94,7 @@ Después, desarrollé una **matriz de tareas cruzada** para tres perfiles: Marta
 
 Por último, diseñé los primeros **wireframes** de la interfaz. Al principio me parecía muy complicado crear una web desde cero, pero al ponerme a ello resultó mucho más natural de lo que esperaba. Creo que fue gracias a haber analizado otras webs en la práctica anterior, y a tener como referencia los patrones de diseño y buenas prácticas vistas en clase. Además, los wireframes no fueron un ejercicio estético, sino una forma de dar respuesta a problemas reales: como la falta de estructura clara, las barreras idiomáticas o una navegación poco intuitiva. Me di cuenta de que **analizar otros diseños es una herramienta muy útil para adquirir criterio y mejorar el propio proceso de diseño**.
 
-#### Paso 3: Mi UX-Case Study (diseño)
+### Paso 3: Mi UX-Case Study (diseño)
 
 En esta práctica desarrollé el prototipo de alta fidelidad de Aliño, adaptado a móvil. De todo el proceso, quiero destacar las siguientes aportaciones:
 
@@ -70,7 +108,7 @@ Sí que me resultó complejo pasar de un diseño lo-fi planteado para web a un h
 
 Estas aportaciones fueron claves para transformar la propuesta conceptual en una experiencia de usuario coherente y testeable.
 
-#### Paso 4: Pruebas de Evaluación
+### Paso 4: Pruebas de Evaluación
 
 Destaco, por un lado, la **interpretación comparativa de los resultados** de los test. Me sorprendió que Aliño, siendo más simple, obtuviera mejor valoración que La Goma, que tenía un prototipo más desarrollado. Esto me hizo reflexionar sobre la importancia del atractivo visual y la claridad en las primeras interacciones: en una interfaz que aún no está terminada, los usuarios tienden a preferir lo que les resulta más accesible y visualmente cuidado. También soy consciente de que la muestra de usuarios era muy pequeña (solo cuatro), así que los resultados no son concluyentes, pero sí ilustrativos.
 
