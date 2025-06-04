@@ -27,7 +27,7 @@ El objetivo de este trabajo final es poner en práctica los conocimientos adquir
 
 ### 1. Actividades de clase
 
-#### 1.1. Actividad 1: Etnografía
+#### Actividad 1: Etnografía
 
 
 
@@ -35,7 +35,7 @@ El objetivo de este trabajo final es poner en práctica los conocimientos adquir
 
 A continuación mencionaré las herramientas utilizadas y aportaciones que considero más destacables de cada una de las prácticas realizadas en la asignatura.
 
-#### 2.1. Práctica 1
+#### Paso 1: UX User & Desk Research & Analisis
 
 Esta práctica supuso un cambio en mi forma de analizar interfaces: fue mi primer contacto real con herramientas de investigación UX y aprendí a observar la web desde la perspectiva de un nuevo usuario, no como desarrollador.
 
@@ -46,7 +46,7 @@ Después, crear los **User Journey Maps** de Marta y Sophie me ayudó a entender
 Por último quiero destacar la realización de una evaluación heurística utilizando el **Usability Review**, una plantilla de 45 criterios basada en principios de usabilidad. Analicé la web teniendo en cuenta los perfiles definidos, lo que me permitió justificar cada puntuación y proponer mejoras concretas, como incluir filtros, facilitar la navegación o añadir feedback en procesos clave.
 
 
-#### 2.2. Práctica 2
+#### Paso 2: UX Design
 
 En esta práctica pasé del análisis a la propuesta de diseño, centrando el trabajo en cómo resolver de forma coherente los problemas detectados en fases anteriores.
 
@@ -56,7 +56,7 @@ Después, desarrollé una **matriz de tareas cruzada** para tres perfiles: Marta
 
 Por último, diseñé los primeros **wireframes** de la interfaz. Al principio me parecía muy complicado crear una web desde cero, pero al ponerme a ello resultó mucho más natural de lo que esperaba. Creo que fue gracias a haber analizado otras webs en la práctica anterior, y a tener como referencia los patrones de diseño y buenas prácticas vistas en clase. Además, los wireframes no fueron un ejercicio estético, sino una forma de dar respuesta a problemas reales: como la falta de estructura clara, las barreras idiomáticas o una navegación poco intuitiva. Me di cuenta de que **analizar otros diseños es una herramienta muy útil para adquirir criterio y mejorar el propio proceso de diseño**.
 
-#### 2.3. Práctica 3
+#### Paso 3: Mi UX-Case Study (diseño)
 
 En esta práctica desarrollé el prototipo de alta fidelidad de Aliño, adaptado a móvil. De todo el proceso, quiero destacar las siguientes aportaciones:
 
@@ -70,7 +70,7 @@ Sí que me resultó complejo pasar de un diseño lo-fi planteado para web a un h
 
 Estas aportaciones fueron claves para transformar la propuesta conceptual en una experiencia de usuario coherente y testeable.
 
-#### 2.4. Práctica 4
+#### Paso 4: Pruebas de Evaluación
 
 Destaco, por un lado, la **interpretación comparativa de los resultados** de los test. Me sorprendió que Aliño, siendo más simple, obtuviera mejor valoración que La Goma, que tenía un prototipo más desarrollado. Esto me hizo reflexionar sobre la importancia del atractivo visual y la claridad en las primeras interacciones: en una interfaz que aún no está terminada, los usuarios tienden a preferir lo que les resulta más accesible y visualmente cuidado. También soy consciente de que la muestra de usuarios era muy pequeña (solo cuatro), así que los resultados no son concluyentes, pero sí ilustrativos.
 
