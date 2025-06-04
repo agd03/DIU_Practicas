@@ -118,4 +118,4 @@ Por otro lado, la **aplicación del eye tracking** fue clave para detectar que c
 
 
 
-## PARTE II: Caso de estudio: Evaluación de un film commission como atractivo turístico de GRX
+# PARTE II: Caso de estudio: Evaluación de un film commission como atractivo turístico de GRX
