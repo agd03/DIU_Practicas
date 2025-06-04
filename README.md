@@ -621,10 +621,22 @@ Por tanto, aunque comprendo que los usuarios puedan haber valorado mejor la simp
 
 Se observaron las siguientes tendencias en los mapas de calor:
 
-- **Alta concentración visual en la parte central**, especialmente sobre los textos de menú y actividad. Los títulos, precios y botones de reserva atrajeron correctamente la atención.
-- El botón del calendario fue visto, aunque no destacó tanto como otros elementos.
-- El footer (información de contacto/redes) recibió menos atención, lo cual es esperable al no tratarse de contenido de acción inmediata.
-- Se percibe un flujo de lectura de arriba hacia abajo con especial foco en la zona media de contenido (información y botones), lo que indica una jerarquía visual adecuada.
+**Observaciones principales**
+
+- La atención se concentró principalmente en los bloques de texto con títulos llamativos como “Día de comida tailandesa” o “Velada de música”.
+- Las imágenes de los platos y la actividad también atrajeron interés visual, lo que indica una jerarquía visual efectiva a nivel de contenido.
+- **Los botones de “Reservar” fueron apenas observados** en los tres mapas de calor, a pesar de ser elementos clave para la acción esperada del usuario.
+- El **selector de fecha** también recibió escasa atención, a pesar de su relevancia para la funcionalidad general de la pantalla.
+- El footer con los datos de contacto y redes fue completamente ignorado.
+
+
+En este tipo de pantalla orientada a la acción, se esperaría que el foco visual estuviese en los botones de interacción, el selector de fecha y las llamadas a la acción. Sin embargo, los resultados muestran que el diseño actual favorece el contenido informativo pero no guía correctamente hacia las zonas de interacción, lo que podría traducirse en menor conversión o dificultad de uso.
+
+**Recomendaciones**
+
+- Rediseñar los botones para que tengan más peso visual (color, iconos, tamaño).
+- Aumentar el contraste y jerarquía del selector de fecha.
+- Equilibrar la carga informativa para que las llamadas a la acción no se pierdan entre el contenido.
 
 #### Comparación con el caso A (Aliño)
 
@@ -637,17 +649,19 @@ Se observaron las siguientes tendencias en los mapas de calor:
 
 Aunque el experimento estaba centrado en el caso B, se realizaron pruebas equivalentes con Aliño para comparar resultados:
 
-- En Aliño, los ojos se concentraron en el **logo**, el botón “Explorar talleres” y algunos elementos visuales secundarios. 
-- Hubo **menos dispersión**, pero también menos interacción con la parte inferior o el menú de navegación.
-- La pantalla generó foco en lo visual (colores e imágenes) pero no tanto en el contenido textual o funcional.
+- La atención se concentró en la parte superior de la interfaz, especialmente en el **logotipo**, el nombre de la app y el botón central de **“Explorar talleres”**, que fue uno de los elementos más vistos.
+- También se observaron focos moderados en las imágenes asociadas a **“Cocina de temporada”** y **“Huerta la fresquita”**, que funcionan como accesos visuales a otras secciones.
+- La parte inferior de la pantalla (barra de navegación y datos de contacto) recibió poca atención, salvo en un usuario que fijó brevemente la vista en el texto de dirección.
+- En general, se confirma que el diseño de Aliño dirige bien la mirada en vertical descendente, aunque de forma limitada a los bloques principales de contenido.
+
 
 ---
 
-Los resultados muestran que **La Goma dirige mejor la atención hacia elementos informativos y de acción directa**, como el menú del día y las actividades. Aunque su interfaz puede parecer más cargada visualmente, también ofrece más puntos de anclaje visual y funcional. 
+El análisis de los mapas de calor muestra que la interfaz de **La Goma**, aunque más cargada visualmente, logra captar bien la atención del usuario en los bloques informativos clave como el menú del día y la actividad cultural. El uso del color, las imágenes y la jerarquía tipográfica funciona correctamente para destacar contenido relevante. Sin embargo, sorprende negativamente la **escasa atención que reciben los botones de “Reservar”**, que siendo elementos clave, pasan desapercibidos. También ocurre algo similar con el selector de fecha, que no termina de destacar lo suficiente.
 
-Es importante matizar que la pantalla "home" de La Goma **no es una página de inicio convencional**, sino que corresponde a uno de los apartados principales de la aplicación, centrado en la oferta diaria de menús y actividades. Esto influye en el tipo de información que los usuarios procesan, ya que se encuentran directamente en una vista de contenido práctico y accionable.
+En contraste, **Aliño** presenta una pantalla más limpia y directa, centrando la mirada en el botón principal de “Explorar talleres”, pero con menos profundidad visual y menor interacción con el resto de elementos. La navegación inferior, por ejemplo, no genera apenas atención.
 
-En cambio, **Aliño presenta una estructura más minimalista**, con foco inicial muy claro —principalmente en el logo y en el botón “Explorar talleres”—, pero con menor recorrido visual en las zonas inferiores de la interfaz. Esto puede resultar positivo para tareas puntuales y accesos rápidos, pero menos eficaz en situaciones donde el usuario necesita explorar más información en pantalla.
+En conjunto, **La Goma ofrece una experiencia visual más rica y realista**, con mayor variedad de estímulos y contenido escaneado por el usuario. Sin embargo, necesita mejorar la visibilidad de sus elementos de acción para que la atención visual se traduzca también en interacción funcional.
 
 
 ### 4.f Usability Report de B
