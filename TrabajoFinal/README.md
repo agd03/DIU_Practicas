@@ -58,16 +58,6 @@ Por último, diseñé los primeros **wireframes** de la interfaz. Al principio m
 
 #### 2.3. Práctica 3
 
-La elaboración del **moodboard** fue una herramienta clave para definir una identidad visual coherente desde el inicio. Aunque sencilla, me permitió establecer con claridad el tono del proyecto —natural, cercano y accesible— y facilitó la toma de decisiones visuales posteriores. La selección cuidada de paleta de colores, tipografía, imágenes y estilo marcó una base sólida para todo el diseño.
-
-También fue destacable la aplicación de **patrones de Material Design** y principios de diseño accesible. No me limité a seguir una plantilla, sino que seleccioné y adapté los componentes con criterio, teniendo en cuenta el contexto de uso, el tipo de usuario y los objetivos de cada sección. Esto me permitió construir una interfaz coherente, funcional y optimizada para móvil, alineada con los estándares actuales.
-
-Por último, el desarrollo del **mockup interactivo en Figma** fue una de las partes más valiosas del proceso. Pude simular la experiencia de uso real, incluyendo navegación entre pantallas, exploración de contenido, formularios y acciones como cambiar el idioma o completar una reserva. El prototipo no solo fue útil para visualizar la solución, sino también para anticipar ajustes antes de testearlo con usuarios.
-
-Estas aportaciones fueron claves para transformar la propuesta conceptual en una experiencia de usuario coherente y testeable.
-
-#### 2.3. Práctica 3
-
 En esta práctica desarrollé el prototipo de alta fidelidad de Aliño, adaptado a móvil. De todo el proceso, quiero destacar las siguientes aportaciones:
 
 En primer lugar, la elaboración del **moodboard** fue una herramienta clave para definir una identidad visual coherente desde el inicio. Aunque sencilla, me permitió establecer con claridad el tono del proyecto —natural, cercano y accesible— y facilitó la toma de decisiones visuales posteriores. La selección cuidada de paleta de colores, tipografía, imágenes y estilo marcó una base sólida para todo el diseño.
@@ -78,7 +68,7 @@ El desarrollo del **mockup interactivo en Figma** fue una de las partes más val
 
 Sí que me resultó complejo pasar de un diseño lo-fi planteado para web a un hi-fi adaptado a móvil. Me encontré con decisiones de distribución, navegación y jerarquía que no se trasladaban directamente, y eso me hizo ver lo importante que es tener en cuenta desde el principio el dispositivo final en el que el usuario va a interactuar con la interfaz. Además, me habría gustado manejar con más soltura algunas de las herramientas y plugins vistos en clase, ya que con más práctica técnica podría haber construido un mockup más pulido.
 
-Estas aportaciones fueron claves para transformar la propuesta conceptual en una experiencia de usuario coherente, cuidada y testeable.
+Estas aportaciones fueron claves para transformar la propuesta conceptual en una experiencia de usuario coherente y testeable.
 
 #### 2.4. Práctica 4
 
