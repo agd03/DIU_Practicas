@@ -12,7 +12,8 @@ Curso: 2024/25
   - [Actividades de clase](#actividades-de-clase)
   - [Prácticas](#prácticas) 
 - [Parte II: Caso de estudio](#parte-ii-caso-de-estudio)
-  - [Análisis de la web](#análisis-de-la-web)
+  - [Introducción](#introducción)
+  - [1. Análisis de la web](#1-análisis-de-la-web)
   - [Comparativa con otra film commission](#comparativa-con-otra-film-commission)
   - [Propuesta de mejora](#propuesta-de-mejora)
   - [Reflexión final](#reflexión-final)
@@ -118,4 +119,49 @@ Por otro lado, la **aplicación del eye tracking** fue clave para detectar que c
 
 
 
-# PARTE II: Caso de estudio: Evaluación de un film commission como atractivo turístico de GRX
+# PARTE II: Caso de estudio:
+# Evaluación de un film commission como atractivo turístico de GRX
+
+
+## Introducción
+
+Una *film commission* es una entidad que promueve un territorio como escenario de rodajes audiovisuales, sirviendo de enlace entre instituciones locales y productoras. Su función no se limita a facilitar trámites, sino que también genera un impacto económico al atraer inversiones, empleo y actividad en sectores como la hostelería o el transporte.
+
+Además, tiene un valor cultural importante al proyectar la identidad visual de una ciudad y reforzar su imagen como destino turístico vinculado al cine.
+
+Este trabajo analiza la experiencia de usuario y el diseño de una web real de *film commission*, identificando aciertos y áreas de mejora desde una perspectiva profesional de UX. A partir de ese análisis se propone un rediseño enfocado en mejorar la usabilidad y potenciar el turismo cinematográfico.
+
+## 1. Análisis de la web
+
+Para evaluar la web de Granada Film Commission, se plantea un análisis estructurado basado en tres fases: un User Research Plan teórico para definir el perfil de usuario y tareas típicas; un análisis heurístico mediante el *usability review template* de la asignatura; y una valoración adicional de aspectos como accesibilidad, responsive y experiencia general del usuario.
+
+Se apoyan criterios de evaluación en recursos como *Laws of UX* y *Cards for Humanity*, con el objetivo de identificar mejoras concretas desde una perspectiva de diseño centrado en el usuario.
+
+### User Research Plan
+
+El análisis se centra en la web de la [Granada Film Commission](https://filmgranada.com/), una plataforma destinada a atraer producciones audiovisuales al territorio de la provincia andaluza. El sitio está dirigido principalmente a profesionales del sector (productores, localizadores, directores), aunque también puede interesar a instituciones locales o turistas culturales.
+
+Dado que no se han realizado estudios previos con usuarios reales, el análisis se desarrollará desde el enfoque de un primer visitante profesional sin experiencia previa con la plataforma.
+
+Para ello, se plantea un estudio teórico basado en:
+
+- **Tareas típicas del usuario profesional**, como buscar localizaciones, contactar con la comisión o consultar servicios ofrecidos.
+- **Heurísticas de usabilidad** (Nielsen), aplicadas mediante la plantilla de evaluación usada en la asignatura.
+- **Simulación de navegación desde dispositivos móviles y escritorio**, evaluando accesibilidad, arquitectura de la información y experiencia general.
+
+El objetivo es detectar barreras que dificulten el uso por parte del público objetivo y proponer mejoras alineadas con buenas prácticas UX.
+
+### Usability Review
+
+
+
+
+
+
+
+
+
+
+
+
+
