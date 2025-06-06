@@ -133,9 +133,9 @@ Este trabajo analiza la experiencia de usuario y el diseño de una web real de *
 
 ## 1. Análisis de la web
 
-Para evaluar la web de Granada Film Commission, se plantea un análisis estructurado basado en tres fases: un User Research Plan teórico para definir el perfil de usuario y tareas típicas; un análisis heurístico mediante el *usability review template* de la asignatura; y una valoración adicional de aspectos como accesibilidad, responsive y experiencia general del usuario.
+Para evaluar la web de la film comission de Granada, [Film in Granada](https://filmgranada.com/), se ha llevado a cabo un análisis centrado principalmente en la usabilidad, apoyado en tres enfoques: un User Research Plan teórico para definir el perfil del usuario y sus necesidades principales; un análisis heurístico mediante el *usability review template* de la asignatura; y una revisión observacional general de la experiencia en escritorio y móvil.
 
-Se apoyan criterios de evaluación en recursos como *Laws of UX* y *Cards for Humanity*, con el objetivo de identificar mejoras concretas desde una perspectiva de diseño centrado en el usuario.
+Adicionalmente, se proponen algunas líneas para una futura evaluación del diseño visual, tomando como referencia principios clave de [*Laws of UX*](https://lawsofux.com/) y dinámicas empáticas inspiradas en [*Cards for Humanity*](https://cardsforhumanity.frog.co/), con el objetivo de detectar oportunidades de mejora desde una perspectiva de diseño centrado en el usuario.
 
 ### User Research Plan
 
@@ -153,9 +153,33 @@ El objetivo es detectar barreras que dificulten el uso por parte del público ob
 
 ### Usability Review
 
+**Puntuación obtenida: 66/100** (moderada)
 
+*Film in Granada* es una web visualmente atractiva y funcional, orientada a profesionales del sector audiovisual. Ofrece acceso a localizaciones, formularios y contacto institucional, pero presenta carencias en orientación al usuario, ayuda contextual y experiencia móvil.
 
+**Puntos fuertes:**
 
+- Diseño limpio y profesional, con buena jerarquía visual.
+- Formularios completos y bien organizados.
+- Contacto institucional visible (email, teléfono y horario).
+- Búsqueda eficaz en escritorio, con resultados relevantes.
+- Buen rendimiento técnico y compatibilidad entre navegadores.
+
+**Puntos débiles:**
+
+- Falta orientación inicial clara en la página de inicio.
+- Menú hamburguesa oculto incluso en escritorio.
+- No hay ayuda contextual ni preguntas frecuentes.
+- Búsqueda no disponible en móvil; formularios comprimidos.
+
+**Conclusión:**
+La web cumple su función principal, pero mejorar la accesibilidad móvil, la orientación y el acompañamiento al usuario haría que la experiencia fuera más completa, accesible y profesional.
+
+### Evaluación del diseño
+
+Aunque este análisis se ha centrado principalmente en la usabilidad, sería recomendable complementar la evaluación con un análisis del diseño visual. Para ello, se podrían aplicar principios clave recogidos en [*Laws of UX*](https://lawsofux.com/), como la ley de Fitts (para valorar la accesibilidad de botones o enlaces), la ley de la carga cognitiva (para detectar elementos que sobrecargan al usuario) o el efecto estética-usabilidad (para entender cómo el diseño visual influye en la percepción de usabilidad). 
+
+Además, podría usarse una carta de [*Cards for Humanity*](https://cardsforhumanity.frog.co/) como "Clara" o "Útil" para reflexionar brevemente sobre si la interfaz comunica bien su propósito y facilita la toma de decisiones. Este tipo de enfoque permitiría detectar mejoras visuales y estratégicas desde una perspectiva centrada en el usuario, sin necesidad de una evaluación extensa.
 
 
 
