@@ -16,7 +16,7 @@ Curso: 2024/25
   - [1. Análisis de la web](#1-análisis-de-la-web)
   - [2. Comparativa con otra propuesta](#2-comparativa-con-otra-propuesta)
   - [3. Propuesta de valor](#3-propuesta-de-valor)
-  - [4. Reflexión final](#4-reflexión-final)
+  - [4. Análisis final](#4-reflexión-final)
 
 
 ## Objetivos
@@ -224,6 +224,37 @@ En resumen, Film in Granada tiene una base funcional bien orientada al ámbito p
 
 ## 3. Propuesta de Valor
 
+Para este apartado he utilizado como base la plantilla de Scope Canvas proporcionada en la asignatura, trabajada directamente en Figma. Esta herramienta me ha permitido estructurar de forma clara los objetivos del rediseño desde una perspectiva centrada en el usuario.
+
+![ScopeCanvas](ScopeCanvas.png)
+
+A continuación, presento un primer boceto hecho a mano para esbozar la estructura principal de la aplicación, aunque también podríamos haberlo realizado en Figma.
+
+![borrador1](borrador1.jpg)
+
+![borr2](borrador2.jpg)
+
+En fases posteriores, para la elaboración de los mockups y la versión de alta fidelidad (Hi-Fi), sí utilizaremos Figma como herramienta principal. Una de sus funcionalidades más útiles es el modo *Prototype*, que permite simular flujos de navegación interactivos entre pantallas y botones, lo cual es ideal para visualizar la experiencia de usuario antes del desarrollo final.
+
+## 4. Análisis final
+
+Realizar este caso de estudio me ha servido para aplicar muchos de los conocimientos y enfoques vistos a lo largo de la asignatura, especialmente en lo que respecta a la identificación de problemas de usabilidad, el análisis heurístico, la definición de necesidades del usuario y la estructuración de propuestas con herramientas como el Scope Canvas. Sin embargo, también me ha hecho tomar conciencia de ciertas limitaciones y de aspectos que podrían haberse abordado con mayor profundidad para acercarme aún más a una evaluación profesional completa.
+
+Por un lado, he aplicado correctamente las heurísticas de Nielsen mediante la plantilla de *Usability Review*, algo que ya habíamos practicado en actividades anteriores. También he utilizado un enfoque de *user research* teórico para anticipar necesidades y comportamientos del usuario objetivo, y he esbozado una propuesta de rediseño basada en problemas reales detectados durante el análisis.
+
+Sin embargo, reconozco que hay herramientas y métodos que podrían haberse incorporado para enriquecer el proceso. Por ejemplo:
+
+- **Entrevistas o encuestas** a profesionales del sector audiovisual habrían permitido validar (o ajustar) las hipótesis planteadas sobre las necesidades reales de los usuarios.
+- **Pruebas de usabilidad en Maze** o prototipos interactivos en Figma con usuarios reales permitirían observar de forma más directa los puntos de fricción y validar el flujo de navegación.
+- **Test A/B** para comparar versiones alternativas de pantallas clave (como la home o el formulario de contacto) habría sido útil para priorizar mejoras.
+- **Mapas de empatía o journey maps** ayudarían a contextualizar aún más la experiencia completa del usuario, especialmente en fases más emocionales como el primer contacto con la plataforma o la búsqueda de información bajo presión de tiempo.
+- También podría haber aplicado técnicas como *Cards for Humanity* de forma más activa, usando varias cartas como detonante para repensar soluciones de diseño más accesibles, cercanas o inclusivas.
+
+En definitiva, aunque el ejercicio me ha permitido consolidar muchos aprendizajes, también me ha mostrado el valor de contar con herramientas más diversas y de aproximarse a los problemas de diseño desde distintos ángulos. Estoy convencida de que en una fase posterior —especialmente de validación— sería fundamental complementar esta propuesta con investigación directa con usuarios y test interactivos.
+
+## Conclusión
+
+Esta asignatura me ha hecho darme cuenta de lo complejo que puede llegar a ser el diseño de interfaces. Involucra muchos factores —usabilidad, accesibilidad, experiencia del usuario, coherencia visual— y hay una gran cantidad de herramientas y metodologías disponibles. Personalmente, he sentido que el tiempo ha sido muy limitado para aprender a usarlas con profundidad, pero al menos me ha servido para tomar contacto con ellas y entender mejor todo lo que implica diseñar pensando realmente en el usuario.
 
 
 
