@@ -16,7 +16,8 @@ Curso: 2024/25
   - [1. Análisis de la web](#1-análisis-de-la-web)
   - [2. Comparativa con otra propuesta](#2-comparativa-con-otra-propuesta)
   - [3. Propuesta de valor](#3-propuesta-de-valor)
-  - [4. Análisis final](#4-reflexión-final)
+  - [4. Análisis final](#4-análisis-final)
+- [Conclusión](#conclusión)
 
 
 ## Objetivos
@@ -24,51 +25,29 @@ Curso: 2024/25
 El objetivo de este trabajo final es poner en práctica los conocimientos adquiridos en la asignatura de Diseño de Interfaces de Usuario a través de dos enfoques complementarios. Por un lado, se incluye un portfolio personal que recoge las aportaciones más relevantes realizadas durante el curso, con una valoración reflexiva sobre la experiencia y el aprendizaje en el ámbito de la UX/UI. Por otro, se desarrolla un caso práctico basado en el análisis y rediseño de una página web real de una film commission, con el propósito de mejorar su usabilidad, accesibilidad, estructura de la información y experiencia de usuario. Con esta combinación, se busca conectar la teoría con la práctica, aplicando metodologías y principios de diseño centrado en el usuario de forma justificada y coherente.
 
 
-
 # PARTE I: MI EXPERIENCIA UX
 
 ## Actividades de clase
 
-A continuación, hago una breve síntesis de las actividades de clase realizadas, destacando los puntos en los que mi aportación ha sido más significativa y que más han contribuido a mi aprendizaje en UX/UI.
-
+A lo largo del curso he tenido la oportunidad de aplicar diferentes técnicas y enfoques del diseño centrado en el usuario a través de actividades prácticas. A continuación, destaco aquellas en las que mi aportación fue más significativa y que considero clave en mi aprendizaje en UX/UI.
 
 ### Actividad 1: Etnografía
 
-La observación etnográfica realizada en una parada de autobús puso en evidencia cómo la falta de información clara y la inconsistencia en el sistema de pago pueden generar confusión, estrés y decisiones incorrectas por parte del usuario. Esta experiencia me permitió comprender la importancia de observar a los usuarios en su contexto real para detectar problemas de diseño que no siempre son evidentes en entornos controlados. A nivel metodológico, confirmé el valor de la etnografía como técnica de UX Research para obtener insights relevantes en fases tempranas del diseño, y cómo factores como el entorno o la presión del tiempo influyen directamente en la experiencia de uso.
+La observación etnográfica en una parada de autobús me permitió identificar barreras reales en la experiencia del usuario, como la falta de información clara o la presión del tiempo en la toma de decisiones. Confirmé el valor de la etnografía como técnica de UX Research, especialmente en fases tempranas del diseño, y aprendí a relacionar la observación contextual con criterios de usabilidad.
 
-Apliqué la técnica con rigor, obtuve insights relevantes y fui capaz de relacionar la observación con criterios de usabilidad y diseño contextualizado. Considero que la calidad de mi trabajo en esta actividad fue alta.
-
-### Actividad 2: Web Checklist
-
-En esta actividad analizamos una web real mediante una checklist detallada de criterios de buen diseño. En nuestro caso, observamos aspectos positivos como una buena proporción entre imágenes y texto, colores y tipografías coherentes, y una redacción clara y accesible. Sin embargo, también detectamos elementos mejorables que afectaban directamente a la experiencia de usuario, como la falta de navegación interna por categorías y un footer poco visible que limitaba el acceso rápido a información relevante.
-
-Este análisis me ayudó a comprender cómo ciertos detalles, como la ubicación o el diseño de un pie de página, pueden afectar de forma global a la usabilidad de una web. Además, me permitió interiorizar una forma sistemática de evaluar interfaces, más allá de la intuición, aplicando criterios objetivos relacionados con estructura, accesibilidad y consistencia visual. Esta experiencia reforzó mi capacidad crítica y me aportó una herramienta útil para futuras tareas de evaluación o rediseño.
-
-Fue una actividad más técnica que conceptual, y considero que ahí reside mi potencial, supe redirigir a mis compañeros de grupo cuando algún no veíamos claro algún punto del checklist. Estoy contenta con el resultado, aunque no creo que hiciéramos aportaciones esenciales que no apareciesen ya en las actividades de otros compañeros
+**Valoración:** Apliqué la técnica con rigor, obtuve insights relevantes y fui capaz de relacionar la observación con el diseño contextualizado. Considero que la calidad de mi trabajo en esta actividad fue alta.
 
 ### Actividad 3: Moodboard
 
-Trabajamos en grupo la creación de un moodboard como punto de partida conceptual para un espacio cultural ficticio. En mi caso, participé en el desarrollo del proyecto *El foco de Granada*, centrado en ofrecer experiencias cinematográficas inmersivas y creativas. A través de esta tarea aprendí a traducir valores emocionales e intangibles —como la transformación, la expresión personal o la conexión social— en decisiones visuales coherentes. La elección de una paleta de colores basada en morados, azules y blanco suave reflejaba atmósferas de calma y misterio, mientras que el logotipo (una mariposa) reforzaba el simbolismo de la metamorfosis vivida en cada sesión.
+Participé en la conceptualización visual de *El foco de Granada*, un espacio cultural ficticio. Aprendí a traducir valores emocionales como la transformación y la creatividad en decisiones visuales coherentes, como la elección de una paleta cromática y un logotipo simbólico. Esta actividad me ayudó a entender cómo lo narrativo y lo visual se integran desde las fases iniciales del diseño.
 
-Desde el punto de vista del diseño de interfaces, esta actividad me ayudó a comprender cómo las primeras fases del proceso (inspiración, estilo visual, tono emocional) sientan las bases para una experiencia coherente a nivel narrativo y estético. Además, interioricé la importancia de trabajar con tipografías y elementos visuales que comuniquen no solo funcionalidad, sino también identidad y emoción, algo esencial en proyectos culturales con fuerte carga simbólica.
-
-Creo que fue una de mis contribuciones más completas. Me sentí muy cómoda en el grupo de trabajo y supimos unir lo conceptual con lo visual aportando una dirección clara al proyecto. Fue un trabajo cuidado y coherente desde lo emocional y lo narrativo, y eso se notó en el resultado final.
+**Valoración:** Creo que fue una de mis contribuciones más completas. Me sentí muy cómoda en el grupo de trabajo y supimos unir lo conceptual con lo visual, aportando una dirección clara al proyecto. Fue un trabajo cuidado y coherente desde lo emocional y lo narrativo.
 
 ### Actividad 4: Accesibilidad
 
-En esta ocasión evaluamos la accesibilidad de la web del Ayuntamiento de Toledo mediante herramientas como WAVE y simuladores de discapacidad. Pudimos comprobar cómo, a pesar de tener una estructura visual clara y un diseño responsive, la web presentaba carencias significativas para personas con discapacidades, como la imposibilidad de navegación por teclado o el mal funcionamiento del lector de pantalla. Estas pruebas me hicieron tomar conciencia real de lo que supone enfrentarse a una web inaccesible y de la importancia de diseñar pensando en todos los usuarios, no solo en los que no presentan barreras.
+Evaluamos la web del Ayuntamiento de Toledo con herramientas como WAVE y simuladores de discapacidad. Identificamos carencias clave en accesibilidad y propusimos mejoras alineadas con las WCAG. Esta actividad reforzó en mí una mirada más empática e inclusiva hacia el diseño, entendiendo la accesibilidad como una responsabilidad ética.
 
-Este ejercicio nos permitió aplicar los principios de diseño universal y entender mejor las WCAG desde una perspectiva práctica. Además, me ayudó a desarrollar sensibilidad hacia la inclusión digital y a identificar errores que muchas veces pasan desapercibidos en un análisis puramente visual. La accesibilidad no es solo una cuestión técnica, sino una responsabilidad ética dentro del diseño centrado en el usuario.
-
-Fue un trabajo equilibrado en el que destaqué por mi implicación en la reflexión final, especialmente al identificar limitaciones reales de ciertos colectivos. Considero muy valioso el aprendizaje de esta actividad.
-
-### Actividad 5: Animation Design
-
-Trabajamos en grupo para rediseñar una animación de bienvenida tomando como referencia el estilo de la web BIGMA, reinterpretando su movimiento suave con un enfoque más dinámico. Mi aportación consistió en seleccionar el diseño base a reinterpretar, definir los frames manualmente para simular el efecto de salto y ajustar la duración y el ritmo de la animación hasta lograr una secuencia visual fluida y expresiva. Usamos Smart Animate en Figma para conectar los seis frames en bucle sin utilizar plugins, lo que nos permitió entender mejor cómo funcionan las transiciones naturales entre elementos.
-
-Esta experiencia me permitió experimentar de forma práctica con microinteracciones, aprendiendo a cuidar detalles como la temporalidad, la progresión visual y la coherencia estética. A nivel UX, entendí cómo un onboarding bien diseñado no solo capta la atención del usuario desde el primer segundo, sino que también transmite el tono y la energía del producto. 
-
-Siento que nuestra aportación fue funcional pero no especialmente creativa. Cumplimos con los requisitos técnicos, pero no llegamos a explorar a fondo las posibilidades expresivas de la animación. Aun así, fue útil para afianzar el uso de Smart Animate y comprender los ritmos de interacción en pantallas dinámicas.
+**Valoración:** Fue un trabajo equilibrado en el que destaqué por mi implicación en la reflexión final, especialmente al identificar limitaciones reales de ciertos colectivos. Considero muy valioso el aprendizaje de esta actividad.
 
 ## Prácticas
 
@@ -252,11 +231,7 @@ Sin embargo, reconozco que hay herramientas y métodos que podrían haberse inco
 
 En definitiva, aunque el ejercicio me ha permitido consolidar muchos aprendizajes, también me ha mostrado el valor de contar con herramientas más diversas y de aproximarse a los problemas de diseño desde distintos ángulos. Estoy convencida de que en una fase posterior —especialmente de validación— sería fundamental complementar esta propuesta con investigación directa con usuarios y test interactivos.
 
-## Conclusión
+# Conclusión
 
 Esta asignatura me ha hecho darme cuenta de lo complejo que puede llegar a ser el diseño de interfaces. Involucra muchos factores —usabilidad, accesibilidad, experiencia del usuario, coherencia visual— y hay una gran cantidad de herramientas y metodologías disponibles. Personalmente, he sentido que el tiempo ha sido muy limitado para aprender a usarlas con profundidad, pero al menos me ha servido para tomar contacto con ellas y entender mejor todo lo que implica diseñar pensando realmente en el usuario.
-
-
-
-
 
