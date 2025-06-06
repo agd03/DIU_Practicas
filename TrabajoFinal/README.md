@@ -183,6 +183,29 @@ Aunque este análisis se ha centrado principalmente en la usabilidad, sería rec
 
 Además, podría usarse una carta de [*Cards for Humanity*](https://cardsforhumanity.frog.co/) como "Clara" o "Útil" para reflexionar brevemente sobre si la interfaz comunica bien su propósito y facilita la toma de decisiones. Este tipo de enfoque permitiría detectar mejoras visuales y estratégicas desde una perspectiva centrada en el usuario, sin necesidad de una evaluación extensa.
 
+## 2. Comparativa con otra propuesta
+
+Para valorar objetivamente la calidad del diseño y la organización de tareas de la web *Film in Granada*, se ha realizado una comparativa con otra web del mismo ámbito: la [Valencia Film Office](https://www.valenciafilmoffice.org/). 
+
+La comparación se basa en los criterios de la plantilla *Competitor Analysis* utilizada en la asignatura, centrando la atención en aspectos como la arquitectura de la información, la navegación, el diseño responsive, la accesibilidad del contenido y el soporte al usuario. Esta estrategia permite identificar de forma clara las diferencias clave entre ambas propuestas desde una perspectiva de diseño centrado en el usuario.
+
+| Categoría               | Ítem                                              | Film in Granada | Valencia Film Office |
+|------------------------|---------------------------------------------------|------------------|-----------------------|
+| **Functionality & Use** | Buscador funcional                                | ✔️               | ✔️                    |
+|                        | Filtros de localizaciones                          | ✔️               | ❌                    |
+|                        | Formulario de localización/permiso                | ✔️               | ⚠️ (solo contacto)    |
+| **Usability**          | Idioma disponible                                 | ✔️ (ES/EN)       | ✔️ (ES/EN)            |
+|                        | Interfaz intuitiva                                | ⚠️               | ✔️                    |
+|                        | Orientación inicial clara                         | ❌               | ✔️                    |
+| **Technological Issues**| Navegación estructurada                           | Mejorable              | ✔️                    |
+|                        | Diseño responsive                                 | Mejorable             | ✔️                    |
+|                        | Tiempo de carga y estabilidad                     | ✔️               | ✔️                    |
+| **Business Model**     | Acceso a trámites                                 | ✔️               | ⚠️                    |
+|                        | Promoción del destino como plató de rodaje        | ✔️               | ✔️                    |
+|                        | Apoyo al profesional                              | Parcial            | ✔️                    |
+| **Subjective Issues**  | **Strength**                                      | Formularios específicos para rodajes | Claridad, sencillez y estructura |
+|                        | **Weakness**                                      | Navegación oculta y sin guía inicial | Pocas funcionalidades para gestión |
+|                        | **Conclusión**                                    | Buena base funcional, pero falta guía y accesibilidad móvil | Más clara y usable, pero menos completa para trámites técnicos |
 
 
 
