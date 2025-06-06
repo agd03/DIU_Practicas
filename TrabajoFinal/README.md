@@ -190,22 +190,23 @@ Para valorar objetivamente la calidad del diseño y la organización de tareas d
 La comparación se basa en los criterios de la plantilla *Competitor Analysis* utilizada en la asignatura, centrando la atención en aspectos como la arquitectura de la información, la navegación, el diseño responsive, la accesibilidad del contenido y el soporte al usuario. Esta estrategia permite identificar de forma clara las diferencias clave entre ambas propuestas desde una perspectiva de diseño centrado en el usuario.
 
 | Categoría               | Ítem                                              | Film in Granada | Valencia Film Office |
-|------------------------|---------------------------------------------------|------------------|-----------------------|
-| **Functionality & Use** | Buscador funcional                                | ✔️               | ✔️                    |
-|                        | Filtros de localizaciones                          | ✔️               | ❌                    |
-|                        | Formulario de localización/permiso                | ✔️               | ⚠️ (solo contacto)    |
-| **Usability**          | Idioma disponible                                 | ✔️ (ES/EN)       | ✔️ (ES/EN)            |
-|                        | Interfaz intuitiva                                | ⚠️               | ✔️                    |
-|                        | Orientación inicial clara                         | ❌               | ✔️                    |
-| **Technological Issues**| Navegación estructurada                           | Mejorable              | ✔️                    |
-|                        | Diseño responsive                                 | Mejorable             | ✔️                    |
-|                        | Tiempo de carga y estabilidad                     | ✔️               | ✔️                    |
-| **Business Model**     | Acceso a trámites                                 | ✔️               | ⚠️                    |
-|                        | Promoción del destino como plató de rodaje        | ✔️               | ✔️                    |
-|                        | Apoyo al profesional                              | Parcial            | ✔️                    |
-| **Subjective Issues**  | **Strength**                                      | Formularios específicos para rodajes | Claridad, sencillez y estructura |
-|                        | **Weakness**                                      | Navegación oculta y sin guía inicial | Pocas funcionalidades para gestión |
-|                        | **Conclusión**                                    | Buena base funcional, pero falta guía y accesibilidad móvil | Más clara y usable, pero menos completa para trámites técnicos |
+|-------------------------|---------------------------------------------------|-----------------|----------------------|
+| **Functionality & Use** | Buscador funcional                                | Sí              | Sí                   |
+|                         | Filtros de localizaciones                         | Sí              | No                   |
+|                         | Formulario de localización/permiso                | Sí              | Parcial              |
+| **Usability**           | Idioma disponible                                 | Sí (ES/EN)      | Sí (ES/EN)           |
+|                         | Interfaz intuitiva                                | Mejorable       | Sí                   |
+|                         | Orientación inicial clara                         | No              | Sí                   |
+| **Technological Issues**| Navegación estructurada                           | Mejorable       | Sí                   |
+|                         | Diseño responsive                                 | Mejorable       | Sí                   |
+|                         | Tiempo de carga y estabilidad                     | Sí              | Sí                   |
+| **Business Model**      | Acceso a trámites                                 | Sí              | Parcial              |
+|                         | Promoción del destino como plató de rodaje        | Sí              | Sí                   |
+|                         | Apoyo al profesional                              | Parcial         | Sí                   |
+| **Subjective Issues**   | **Fortalezas**                                    | Formularios específicos para rodajes | Claridad, sencillez y estructura |
+|                         | **Debilidades**                                   | Navegación oculta y sin guía inicial | Pocas funcionalidades para gestión |
+|                         | **Conclusión**                                    | Buena base funcional, pero falta guía y accesibilidad móvil | Más clara y usable, pero menos completa para trámites técnicos |
+
 
 
 
