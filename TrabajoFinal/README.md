@@ -153,6 +153,8 @@ El objetivo es detectar barreras que dificulten el uso por parte del público ob
 
 ### Usability Review
 
+- [Ver Usability Review test](usability-review-GRANADA.pdf)
+
 **Puntuación obtenida: 66/100** (moderada)
 
 *Film in Granada* es una web visualmente atractiva y funcional, orientada a profesionales del sector audiovisual. Ofrece acceso a localizaciones, formularios y contacto institucional, pero presenta carencias en orientación al usuario, ayuda contextual y experiencia móvil.
