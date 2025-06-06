@@ -207,6 +207,8 @@ Para este apartado he utilizado como base la plantilla de Scope Canvas proporcio
 
 ![ScopeCanvas](ScopeCanvas.png)
 
+- [Ver Scope Canvas](ScopeCanvas.png)
+
 A continuación, presento un primer boceto hecho a mano para esbozar la estructura principal de la aplicación, aunque también podríamos haberlo realizado en Figma.
 
 ![borrador1](borrador1.jpg)
