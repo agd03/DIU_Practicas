@@ -14,9 +14,9 @@ Curso: 2024/25
 - [Parte II: Caso de estudio](#parte-ii-caso-de-estudio)
   - [Introducción](#introducción)
   - [1. Análisis de la web](#1-análisis-de-la-web)
-  - [Comparativa con otra film commission](#comparativa-con-otra-film-commission)
-  - [Propuesta de mejora](#propuesta-de-mejora)
-  - [Reflexión final](#reflexión-final)
+  - [2. Comparativa con otra propuesta](#2-comparativa-con-otra-propuesta)
+  - [3. Propuesta de valor](#3-propuesta-de-valor)
+  - [4. Reflexión final](#4-reflexión-final)
 
 
 ## Objetivos
@@ -189,26 +189,40 @@ Para valorar objetivamente la calidad del diseño y la organización de tareas d
 
 La comparación se basa en los criterios de la plantilla *Competitor Analysis* utilizada en la asignatura, centrando la atención en aspectos como la arquitectura de la información, la navegación, el diseño responsive, la accesibilidad del contenido y el soporte al usuario. Esta estrategia permite identificar de forma clara las diferencias clave entre ambas propuestas desde una perspectiva de diseño centrado en el usuario.
 
-| Categoría               | Ítem                                              | Film in Granada | Valencia Film Office |
+| Categoría               |                                                   | Film in Granada | Valencia Film Office |
 |-------------------------|---------------------------------------------------|-----------------|----------------------|
-| **Functionality & Use** | Buscador funcional                                | Sí              | Sí                   |
-|                         | Filtros de localizaciones                         | Sí              | No                   |
-|                         | Formulario de localización/permiso                | Sí              | Parcial              |
-| **Usability**           | Idioma disponible                                 | Sí (ES/EN)      | Sí (ES/EN)           |
-|                         | Interfaz intuitiva                                | Mejorable       | Sí                   |
-|                         | Orientación inicial clara                         | No              | Sí                   |
-| **Technological Issues**| Navegación estructurada                           | Mejorable       | Sí                   |
-|                         | Diseño responsive                                 | Mejorable       | Sí                   |
+| **Business Model**      | Acceso a trámites **online**                      | Sí              | Parcial (enlaces externos)        |
+|                         | Información sobre incentivos o ayudas             | No              | Sí                   |
+|                         | Directorio de profesionales o empresas locales    | Sí              | Sí                   |
+| **Technological Issues**| Mapa interactivo                                  | No              | Sí                   |
+|                         | Diseño responsive                                 | Sí              | Sí                   |
 |                         | Tiempo de carga y estabilidad                     | Sí              | Sí                   |
-| **Business Model**      | Acceso a trámites                                 | Sí              | Parcial              |
-|                         | Promoción del destino como plató de rodaje        | Sí              | Sí                   |
-|                         | Apoyo al profesional                              | Parcial         | Sí                   |
-| **Subjective Issues**   | **Fortalezas**                                    | Formularios específicos para rodajes | Claridad, sencillez y estructura |
-|                         | **Debilidades**                                   | Navegación oculta y sin guía inicial | Pocas funcionalidades para gestión |
-|                         | **Conclusión**                                    | Buena base funcional, pero falta guía y accesibilidad móvil | Más clara y usable, pero menos completa para trámites técnicos |
+| **Functionality & Use** | Buscador funcional                                | Sí              | No                   |
+|                         | Información detallada en las fichas de localización    | Sí              | No            |
+|                         | Crear cuenta e iniciar sesión                     | No              | Sí                   |
+| **Usability**           | Barra de navegación visible en todas las pantallas         | No              | Sí                   |
+|                         | FAQ / Centro de ayuda                             | No              | Sí                   |
+|                         | Formulario de contacto accesible                  | No              | Sí                   |
+| **Subjective Issues**   | **Fortalezas**                                    | Fichas de localización completas, buscador funcional y formularios accesibles desde la web | Interfaz clara, barra de navegación visible, FAQ y mapa interactivo integrados |
+|                         | **Debilidades**                                   | Navegación poco visible (menú oculto), sin contacto accesible online ni ayuda contextual | Sin buscador ni información por localización, trámites no gestionables online |
+|                         | **Conclusión**                                    | Más orientada a producciones audiovisuales, pero necesita mejoras en acompañamiento al usuario y visibilidad de la navegación | Más accesible y usable para visitantes generales, pero limitada para necesidades técnicas del sector |
 
 
+**Film in Granada se sitúa en un punto intermedio** dentro del ecosistema de las film commissions, con una propuesta funcionalmente sólida orientada a profesionales del sector audiovisual. Su punto fuerte es la accesibilidad directa a trámites y la información detallada sobre localizaciones, lo que la convierte en una herramienta útil para productoras y técnicos. No obstante, presenta limitaciones en términos de experiencia de usuario, navegación y acompañamiento informativo.
 
+En comparación con Valencia Film Office, la web de Granada destaca por su mayor profundidad técnica: permite consultar fichas completas de localizaciones, realizar trámites desde la propia plataforma y acceder a directorios de profesionales. Sin embargo, la propuesta valenciana ofrece una experiencia de navegación más clara, una estructura más intuitiva y elementos clave de apoyo al usuario como una barra de navegación visible, un centro de ayuda, y un formulario de contacto accesible desde cualquier pantalla.
+
+Valencia se posiciona como una web más amable y orientada al visitante general, mientras que Granada es más útil para un perfil profesional, aunque menos cuidada en aspectos de accesibilidad, comunicación y asistencia online.
+
+Para mejorar su competitividad, Film in Granada debería trabajar en tres líneas principales:
+
+- Mejorar la orientación del usuario, especialmente en la página de inicio, incluyendo accesos visibles y mensajes guía.
+- Incorporar elementos básicos de soporte, como una sección de ayuda (FAQ), un formulario de contacto accesible y una navegación más directa.
+- Cuidar más la experiencia en dispositivos móviles, asegurando que elementos clave como el buscador estén disponibles en todas las versiones.
+
+En resumen, Film in Granada tiene una base funcional bien orientada al ámbito profesional, pero necesita reforzar su usabilidad y acompañamiento para igualar la experiencia general que ofrece su competidora.
+
+## 3. Propuesta de Valor
 
 
 
